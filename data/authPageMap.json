@@ -1,4 +1,6 @@
 {
+  "879": { "auth": "X", "action": "continue" },
+  "877": { "auth": "X", "action": "continue" },
   "1465": { "auth": "O", "action": "login" },
 
   "1816": { "auth": "X", "action": "continue" },
