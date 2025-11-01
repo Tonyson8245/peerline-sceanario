@@ -13,27 +13,47 @@ https://[username].github.io/peerline-sceanario/data/
 
 ### 사용 예시
 
-#### JSON 파일 직접 접근
+#### 1. 전체 시나리오 목록 가져오기 (scenarioList.json)
 ```javascript
-// scenarioData의 JSON 파일
-const response = await fetch('https://[username].github.io/peerline-sceanario/data/scenarioData/메인.json');
-const data = await response.json();
-
-// PassData
-const passDataResponse = await fetch('https://[username].github.io/peerline-sceanario/data/PassData/passData.json');
-const passData = await passDataResponse.json();
+const response = await fetch('https://tonyson8245.github.io/peerline-sceanario/data/scenarioList.json');
+const scenarioList = await response.json();
+console.log('전체 시나리오 파일 목록:', scenarioList);
 ```
 
-#### 인덱스 사용 (index.js 참고)
+#### 2. 개별 시나리오 데이터 가져오기
 ```javascript
-import {
-  checkScenarioGroup,
-  isSameScenarioGroup,
-  isCommonScenario,
-  isEntryToOut
-} from 'https://[username].github.io/peerline-sceanario/data/index.js';
+// 특정 시나리오 파일
+const response = await fetch('https://tonyson8245.github.io/peerline-sceanario/data/scenarioData/메인.json');
+const data = await response.json();
+console.log(data);
 
-// 동적 로드가 필요한 경우, fetch로 가져온 후 모듈화
+// 시나리오 목록을 먼저 가져온 후 동적으로 로드
+const scenarioList = await fetch('https://tonyson8245.github.io/peerline-sceanario/data/scenarioList.json').then(r => r.json());
+for (const fileName of scenarioList) {
+  const encodedFileName = encodeURIComponent(fileName);
+  const response = await fetch(`https://tonyson8245.github.io/peerline-sceanario/data/scenarioData/${encodedFileName}`);
+  const data = await response.json();
+  console.log(`${fileName}:`, data);
+}
+```
+
+#### 3. PassData 가져오기
+```javascript
+const passDataResponse = await fetch('https://tonyson8245.github.io/peerline-sceanario/data/PassData/passData.json');
+const passData = await passDataResponse.json();
+console.log('PassData:', passData);
+```
+
+#### 4. authPageMap 가져오기
+```javascript
+const authResponse = await fetch('https://tonyson8245.github.io/peerline-sceanario/data/authPageMap.json');
+const authPageMap = await authResponse.json();
+console.log('Auth Page Map:', authPageMap);
+
+// 특정 페이지의 인증 정보 조회
+const pageId = '1713';
+const authInfo = authPageMap[pageId];
+console.log(`페이지 ${pageId} 인증 정보:`, authInfo);
 ```
 
 ## 로컬 개발
@@ -52,15 +72,24 @@ npm install
 
 ```
 data/
-├── scenarioData/          # 시나리오별 JSON 데이터
+├── scenarioData/          # 시나리오별 JSON 데이터 (82개 파일)
 │   ├── 메인.json
 │   ├── 검색.json
 │   └── ...
 ├── PassData/             # 공통 데이터
 │   └── passData.json
-├── authPageMap.js        # 인증 페이지 맵
+├── scenarioList.json     # 전체 시나리오 파일 목록
+├── authPageMap.json      # 인증 페이지 맵
+├── authPageMap.js        # 인증 페이지 맵 (원본 JS)
 └── index.js             # 시나리오 체크 함수
 ```
+
+## 주요 엔드포인트
+
+- **시나리오 목록**: `https://tonyson8245.github.io/peerline-sceanario/data/scenarioList.json`
+- **개별 시나리오**: `https://tonyson8245.github.io/peerline-sceanario/data/scenarioData/{파일명}.json`
+- **PassData**: `https://tonyson8245.github.io/peerline-sceanario/data/PassData/passData.json`
+- **AuthPageMap**: `https://tonyson8245.github.io/peerline-sceanario/data/authPageMap.json`
 
 ## 배포
 
