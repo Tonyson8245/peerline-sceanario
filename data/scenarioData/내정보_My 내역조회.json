@@ -1,0 +1,132 @@
+{
+  "categories": [
+    "CST-MYH-APL",
+    "CST-MYH-BRI",
+    "CST-MYH-DVA",
+    "CST-MYH-OTH",
+    "CST-MYH-PIS",
+    "CST-MYH-UFC"
+  ],
+  "mapping": [
+    {
+      "name": "1:1 문의내역 상세",
+      "id": "1614",
+      "code": "CST-MYH-OTH-M00200",
+      "parentCode": [
+        "CST-MYH-OTH-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "1:1 문의내역 목록",
+      "id": "1613",
+      "code": "CST-MYH-OTH-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "신청내역 상세",
+      "id": "1612",
+      "code": "CST-MYH-APL-M00200",
+      "parentCode": [
+        "CST-MYH-APL-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청내역 목록",
+      "id": "1611",
+      "code": "CST-MYH-APL-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "납부내역서 발행 완료",
+      "id": "1610",
+      "code": "CST-MYH-PIS-M00200",
+      "parentCode": [
+        "CST-MYH-PIS-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부내역서 발행",
+      "id": "1609",
+      "code": "CST-MYH-PIS-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "고지서 재발행 완료",
+      "id": "1608",
+      "code": "CST-MYH-BRI-M00400",
+      "parentCode": [
+        "CST-MYH-BRI-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "고지서 재발행 전자고지 종이고지 혼재",
+      "id": "1607",
+      "code": "CST-MYH-BRI-M00200",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "고지서 재발행 모두 전자고지",
+      "id": "1606",
+      "code": "CST-MYH-BRI-M00100",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "링크_입금전용계좌 확인",
+      "id": "1605",
+      "code": "CST-MYH-DVA-M05100",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "입금전용계좌 확인",
+      "id": "1604",
+      "code": "CST-MYH-DVA-M00100",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "(fp)계량기 사진 업로드로 지침 입력",
+      "id": "1603",
+      "code": "CST-MYH-UFC-M00500",
+      "parentCode": [
+        "CST-MYH-UFC-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)계량기 촬영으로 지침 입력",
+      "id": "1602",
+      "code": "CST-MYH-UFC-M00300",
+      "parentCode": [
+        "CST-MYH-UFC-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용요금 계산",
+      "id": "1601",
+      "code": "CST-MYH-UFC-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

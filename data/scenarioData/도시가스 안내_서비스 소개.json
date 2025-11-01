@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-INF-SVI"
+  ],
+  "mapping": [
+    {
+      "name": "서비스 관할구역",
+      "id": "1573",
+      "code": "CST-INF-SVI-M00500",
+      "parentCode": [
+        "CST-INF-SVI-M00400"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "서비스품질보증제도 분쟁해결기준",
+      "id": "1572",
+      "code": "CST-INF-SVI-M00400",
+      "parentCode": [
+        "CST-INF-SVI-M00300"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "불만 처리 절차",
+      "id": "1571",
+      "code": "CST-INF-SVI-M00300",
+      "parentCode": [
+        "CST-INF-SVI-M00200"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "서비스 이용안내",
+      "id": "1570",
+      "code": "CST-INF-SVI-M00200",
+      "parentCode": [
+        "CST-INF-SVI-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "서비스 소개",
+      "id": "1569",
+      "code": "CST-INF-SVI-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

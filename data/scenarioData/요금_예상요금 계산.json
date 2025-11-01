@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-BIP-EST"
+  ],
+  "mapping": [
+    {
+      "name": "예상요금 계산",
+      "id": "1126",
+      "code": "CST-BIP-EST-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

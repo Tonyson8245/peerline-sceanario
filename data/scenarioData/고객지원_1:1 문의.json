@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-SUP-OTO"
+  ],
+  "mapping": [
+    {
+      "name": "1:1 문의 등록 완료",
+      "id": "1597",
+      "code": "CST-SUP-OTO-M00200",
+      "parentCode": [
+        "CST-SUP-OTO-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "1:1 문의",
+      "id": "1596",
+      "code": "CST-SUP-OTO-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

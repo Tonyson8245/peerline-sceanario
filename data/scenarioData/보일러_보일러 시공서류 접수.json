@@ -1,0 +1,94 @@
+{
+  "categories": [
+    "CST-BLR-BSD",
+    "CST-CMN-SAD"
+  ],
+  "mapping": [
+    {
+      "name": "보일러 시공서류 접수 완료",
+      "id": "1548",
+      "code": "CST-BLR-BSD-M00600",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00500\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)보일러 시공서류 촬영",
+      "id": "1547",
+      "code": "CST-BLR-BSD-M00500",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00400\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)제조업체 선택",
+      "id": "1546",
+      "code": "CST-BLR-BSD-M02200",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00400\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "보일러 시공서류 접수",
+      "id": "1545",
+      "code": "CST-BLR-BSD-M00400",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00300\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1544",
+      "code": "CST-CMN-SAD-M00214",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1543",
+      "code": "CST-CMN-SAD-M00114",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1542",
+      "code": "CST-BLR-BSD-M00300",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1541",
+      "code": "CST-BLR-BSD-M00200",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M00100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "시공 구분 선택",
+      "id": "1540",
+      "code": "CST-BLR-BSD-M00100",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M02600\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "보일러 시공서류 접수 안내",
+      "id": "1539",
+      "code": "CST-BLR-BSD-M02600",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

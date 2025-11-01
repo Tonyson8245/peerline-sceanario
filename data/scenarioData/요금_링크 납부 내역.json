@@ -1,0 +1,14 @@
+{
+  "categories": [
+    "CST-BIP-PYD"
+  ],
+  "mapping": [
+    {
+      "name": "링크_납부 내역 상세",
+      "id": "986",
+      "code": "CST-BIP-PYD-M05200",
+      "parentCode": [],
+      "entryPoint": true
+    }
+  ]
+}

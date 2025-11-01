@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-SAI-ROI"
+  ],
+  "mapping": [
+    {
+      "name": "링크_안전점검 희망여부 회신 완료",
+      "id": "1505",
+      "code": "CST-SAI-ROI-M00500",
+      "parentCode": [
+        "CST-SAI-ROI-M00475"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_점검거부 서명",
+      "id": "1504",
+      "code": "CST-SAI-ROI-M00475",
+      "parentCode": [
+        "CST-SAI-ROI-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_안전점검 희망여부 회신",
+      "id": "1503",
+      "code": "CST-SAI-ROI-M00200",
+      "parentCode": [
+        "CST-SAI-ROI-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_안전점검 희망여부 회신 점검희망",
+      "id": "1502",
+      "code": "CST-SAI-ROI-M00250",
+      "parentCode": [
+        "CST-SAI-ROI-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_안전점검 희망여부 회신 안내",
+      "id": "1501",
+      "code": "CST-SAI-ROI-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

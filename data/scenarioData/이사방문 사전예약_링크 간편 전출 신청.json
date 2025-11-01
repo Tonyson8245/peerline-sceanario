@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "CST-CMN-TAC",
+    "CST-FRO-SMO"
+  ],
+  "mapping": [
+    {
+      "name": "링크_간편 전출 신청 완료",
+      "id": "1297",
+      "code": "CST-FRO-SMO-M05900",
+      "parentCode": [
+        "CST-FRO-SMO-M05800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_가스기기 철거 확인",
+      "id": "1296",
+      "code": "CST-FRO-SMO-M05800",
+      "parentCode": [
+        "CST-FRO-SMO-M05700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_최종 확인",
+      "id": "1295",
+      "code": "CST-FRO-SMO-M05700",
+      "parentCode": [
+        "CST-FRO-SMO-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_예약 정보 입력",
+      "id": "1294",
+      "code": "CST-FRO-SMO-M05200",
+      "parentCode": [
+        "CST-CMN-TAC-M04207"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 수집 및 이용동의",
+      "id": "1293",
+      "code": "CST-CMN-TAC-M04207",
+      "parentCode": [
+        "CST-CMN-TAC-M04107"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_서비스 이용 약관",
+      "id": "1292",
+      "code": "CST-CMN-TAC-M04107",
+      "parentCode": [
+        "CST-FRO-SMO-M05100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_약관 동의",
+      "id": "1291",
+      "code": "CST-FRO-SMO-M05100",
+      "parentCode": [
+        "CST-FRO-SMO-M05050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_전출 신청 주소 확인",
+      "id": "1290",
+      "code": "CST-FRO-SMO-M05050",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

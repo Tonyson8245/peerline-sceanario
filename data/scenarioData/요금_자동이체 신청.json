@@ -1,0 +1,200 @@
+{
+  "categories": [
+    "CST-BIR-ADA",
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD"
+  ],
+  "mapping": [
+    {
+      "name": "카드 자동이체 신청 완료",
+      "id": "1008",
+      "code": "CST-BIR-ADA-M00801",
+      "parentCode": [
+        "CST-BIR-ADA-M00301"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카드 자동이체 정보 입력",
+      "id": "1007",
+      "code": "CST-BIR-ADA-M00301",
+      "parentCode": [
+        "CST-BIR-ADA-M00151"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카드 약관 동의",
+      "id": "1006",
+      "code": "CST-BIR-ADA-M00151",
+      "parentCode": [
+        "CST-BIR-ADA-M00201"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 자동이체 신청 완료",
+      "id": "1005",
+      "code": "CST-BIR-ADA-M01501",
+      "parentCode": [
+        "CST-BIR-ADA-M00901"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 자동이체 정보 입력",
+      "id": "1004",
+      "code": "CST-BIR-ADA-M00901",
+      "parentCode": [
+        "CST-BIR-ADA-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 약관 동의",
+      "id": "1003",
+      "code": "CST-BIR-ADA-M00101",
+      "parentCode": [
+        "CST-BIR-ADA-M00201"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자동이체 방법 선택",
+      "id": "1002",
+      "code": "CST-BIR-ADA-M00201",
+      "parentCode": [
+        "CST-BIR-ADA-M00051",
+        "CST-BIR-ADA-M00075"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자동이체 해지하고 신청하기",
+      "id": "1001",
+      "code": "CST-BIR-ADA-M00075",
+      "parentCode": [
+        "CST-BIR-ADA-M00051"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자의 승인이 완료됐어요",
+      "id": "1000",
+      "code": "CST-CMN-APR-M00501",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자에게 승인 요청했어요",
+      "id": "999",
+      "code": "CST-CMN-APR-M00201",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 요청",
+      "id": "998",
+      "code": "CST-CMN-APR-M00101",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "997",
+      "code": "CST-CMN-SAD-M01001",
+      "parentCode": [
+        "CST-CMN-SAD-M00901"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보를 추출하고 있어요",
+      "id": "996",
+      "code": "CST-CMN-SAD-M00901",
+      "parentCode": [
+        "CST-CMN-SAD-M00801"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "995",
+      "code": "CST-CMN-SAD-M00801",
+      "parentCode": [
+        "\"CST-CMN-SAD-M00601\"]"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "994",
+      "code": "CST-CMN-SAD-M00601",
+      "parentCode": [
+        "CST-CMN-SAD-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "993",
+      "code": "CST-CMN-SAD-M00501",
+      "parentCode": [
+        "CST-CMN-SAD-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "992",
+      "code": "CST-CMN-SAD-M00401",
+      "parentCode": [
+        "CST-CMN-SAD-M00401"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "991",
+      "code": "CST-CMN-SAD-M00201",
+      "parentCode": [
+        "CST-CMN-SAD-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "990",
+      "code": "CST-CMN-SAD-M00101",
+      "parentCode": [
+        "CST-CMN-SLD-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "989",
+      "code": "CST-CMN-SLD-M00101",
+      "parentCode": [
+        "CST-BIR-ADA-M00051"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자동이체 안내",
+      "id": "988",
+      "code": "CST-BIR-ADA-M00051",
+      "parentCode": [
+        "[\"CST-FRO-FMI-M05750\"",
+        "\"CST-FRO-FMI-M05450\"",
+        "\"CST-FRO-FMI-M10750\"",
+        "\"CST-FRO-FMI-M00725\"",
+        "\"CST-FRO-SMI-M05150\"",
+        "\"CST-FRO-SUA-M00350\"",
+        "\"CST-FRO-SUA-M05350\"]"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

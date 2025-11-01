@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-BIR-RAR"
+  ],
+  "mapping": [
+    {
+      "name": "링크_환불 계좌 등록 완료",
+      "id": "1120",
+      "code": "CST-BIR-RAR-M00600",
+      "parentCode": [
+        "CST-BIR-RAR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_환불 계좌 등록",
+      "id": "1119",
+      "code": "CST-BIR-RAR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

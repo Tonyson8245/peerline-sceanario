@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-GAP-RCR"
+  ],
+  "mapping": [
+    {
+      "name": "공급중지/재공급 신청 완료",
+      "id": "1460",
+      "code": "CST-GAP-RCR-M00400",
+      "parentCode": [
+        "CST-GAP-RCR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "공급중지/재공급 신청",
+      "id": "1459",
+      "code": "CST-GAP-RCR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

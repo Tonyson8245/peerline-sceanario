@@ -1,0 +1,135 @@
+{
+  "categories": [
+    "CST-CMN-TAC",
+    "CST-FRO-FMO"
+  ],
+  "mapping": [
+    {
+      "name": "셀프 전출 완료",
+      "id": "1176",
+      "code": "CST-FRO-FMO-M06000",
+      "parentCode": [
+        "CST-FRO-FMO-M05900"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기사 방문 확인",
+      "id": "1175",
+      "code": "CST-FRO-FMO-M05900",
+      "parentCode": [
+        "CST-FRO-FMO-M05700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "최종 확인",
+      "id": "1174",
+      "code": "CST-FRO-FMO-M05700",
+      "parentCode": [
+        "CST-FRO-FMO-M05400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금 납부",
+      "id": "1173",
+      "code": "CST-FRO-FMO-M05400",
+      "parentCode": [
+        "CST-FRO-FMO-M05330"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1172",
+      "code": "CST-FRO-FMO-M05330",
+      "parentCode": [
+        "CST-FRO-FMO-M05310",
+        "CST-FRO-FMO-M05320"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1171",
+      "code": "CST-FRO-FMO-M05320",
+      "parentCode": [
+        "CST-FRO-FMO-M05310"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1170",
+      "code": "CST-FRO-FMO-M05310",
+      "parentCode": [
+        "CST-CMN-TAC-M04202"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 수집 및 이용동의",
+      "id": "1169",
+      "code": "CST-CMN-TAC-M04202",
+      "parentCode": [
+        "CST-CMN-TAC-M04102"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "서비스 이용 약관",
+      "id": "1168",
+      "code": "CST-CMN-TAC-M04102",
+      "parentCode": [
+        "CST-FRO-FMO-M05300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1167",
+      "code": "CST-FRO-FMO-M05300",
+      "parentCode": [
+        "CST-FRO-FMO-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "셀프 전출 조건 확인",
+      "id": "1166",
+      "code": "CST-FRO-FMO-M05200",
+      "parentCode": [
+        "CST-FRO-FMO-M05100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "셀프 전출은 당일 바로 전출이 가능합니다",
+      "id": "1165",
+      "code": "CST-FRO-FMO-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "셀프 전출 주소 확인",
+      "id": "1164",
+      "code": "CST-FRO-FMO-M05050",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "당일 전입 후 전출 불가 안내",
+      "id": "1163",
+      "code": "CST-FRO-FMO-M05025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

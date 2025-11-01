@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-SCR-SRR"
+  ],
+  "mapping": [
+    {
+      "name": "자가검침 결과",
+      "id": "1068",
+      "code": "CST-SCR-SRR-M05600",
+      "parentCode": [
+        "CST-SCR-SRR-M05500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "최금 검침 내역",
+      "id": "1067",
+      "code": "CST-SCR-SRR-M05500",
+      "parentCode": [
+        "CST-SCR-SRR-M05050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자가검침 지침 등록",
+      "id": "1066",
+      "code": "CST-SCR-SRR-M05050",
+      "parentCode": [
+        "CST-SCR-SRR-M05100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자가검침 지침 등록 가능기간 안내",
+      "id": "1065",
+      "code": "CST-SCR-SRR-M05100",
+      "parentCode": [
+        "CST-SCR-SRR-M05025"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자가검침 지침 주소 확인",
+      "id": "1064",
+      "code": "CST-SCR-SRR-M05025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

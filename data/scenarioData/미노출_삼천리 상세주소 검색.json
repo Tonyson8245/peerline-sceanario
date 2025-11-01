@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-CMN-ASF"
+  ],
+  "mapping": [
+    {
+      "name": "삼천리 상세주소 검색",
+      "id": "1770",
+      "code": "CST-CMN-ASF-M01200",
+      "parentCode": [
+        "CST-CMN-ASF-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1769",
+      "code": "CST-CMN-ASF-M01100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

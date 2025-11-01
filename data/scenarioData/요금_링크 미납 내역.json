@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-BIP-UPD"
+  ],
+  "mapping": [
+    {
+      "name": "링크_(t)미납 내역",
+      "id": "980",
+      "code": "CST-BIP-UPD-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

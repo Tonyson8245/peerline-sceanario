@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-MTU-MIR"
+  ],
+  "mapping": [
+    {
+      "name": "계량기 교체 사전예약 변경 완료",
+      "id": "1537",
+      "code": "CST-MTU-MIR-M15900",
+      "parentCode": [
+        "CST-MTU-MIR-M15600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "방문예약 변경",
+      "id": "1536",
+      "code": "CST-MTU-MIR-M15600",
+      "parentCode": [
+        "CST-MTU-MIR-M15500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 교체 사전예약 취소 완료",
+      "id": "1535",
+      "code": "CST-MTU-MIR-M15500",
+      "parentCode": [
+        "CST-MTU-MIR-M15200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "방문예약 상세",
+      "id": "1534",
+      "code": "CST-MTU-MIR-M15200",
+      "parentCode": [
+        "CST-MTU-MIR-M15100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "방문예약 목록",
+      "id": "1533",
+      "code": "CST-MTU-MIR-M15100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

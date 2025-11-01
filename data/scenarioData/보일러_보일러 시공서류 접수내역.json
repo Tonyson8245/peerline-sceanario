@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "CST-BLR-BSD"
+  ],
+  "mapping": [
+    {
+      "name": "접수 변경 완료",
+      "id": "1557",
+      "code": "CST-BLR-BSD-M01900",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01700\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)보일러 시공서류 촬영",
+      "id": "1556",
+      "code": "CST-BLR-BSD-M01800",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01700\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)제조업체 선택",
+      "id": "1555",
+      "code": "CST-BLR-BSD-M02500",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01700\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "접수 변경",
+      "id": "1554",
+      "code": "CST-BLR-BSD-M01700",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01300\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "접수 취소 완료",
+      "id": "1553",
+      "code": "CST-BLR-BSD-M01600",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01300\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "접수 상세",
+      "id": "1552",
+      "code": "CST-BLR-BSD-M01300",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)필터",
+      "id": "1551",
+      "code": "CST-BLR-BSD-M02700",
+      "parentCode": [
+        "{\"CST-BLR-BSD-M01100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "접수 목록",
+      "id": "1550",
+      "code": "CST-BLR-BSD-M01100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

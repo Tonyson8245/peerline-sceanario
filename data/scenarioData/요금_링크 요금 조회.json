@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "CST-BIP-BIQ"
+  ],
+  "mapping": [
+    {
+      "name": "링크_(t)사용량 비교",
+      "id": "978",
+      "code": "CST-BIP-BIQ-M05400",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_요금 상세",
+      "id": "977",
+      "code": "CST-BIP-BIQ-M05300",
+      "parentCode": [
+        "CST-BIP-BIQ-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_(t)월 별 조회",
+      "id": "976",
+      "code": "CST-BIP-BIQ-M05200",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_(t)청구요금 조회",
+      "id": "975",
+      "code": "CST-BIP-BIQ-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

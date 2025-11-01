@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "CST-INF-GFG"
+  ],
+  "mapping": [
+    {
+      "name": "요금납부 방법",
+      "id": "1587",
+      "code": "CST-INF-GFG-M00600",
+      "parentCode": [
+        "CST-INF-GFG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "요금청구 방법",
+      "id": "1586",
+      "code": "CST-INF-GFG-M00500",
+      "parentCode": [
+        "CST-INF-GFG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "요금청구서 보는법",
+      "id": "1585",
+      "code": "CST-INF-GFG-M00400",
+      "parentCode": [
+        "CST-INF-GFG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "복지/할인제도 안내",
+      "id": "1584",
+      "code": "CST-INF-GFG-M00300",
+      "parentCode": [
+        "CST-INF-GFG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "가스요금제도",
+      "id": "1583",
+      "code": "CST-INF-GFG-M00200",
+      "parentCode": [
+        "CST-INF-GFG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "가스요금 안내",
+      "id": "1582",
+      "code": "CST-INF-GFG-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

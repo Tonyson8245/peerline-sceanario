@@ -1,0 +1,79 @@
+{
+    "categories": [
+      "CST-CMN"
+    ],
+    "mapping": [
+      {
+        "name": "공통",
+        "id": "1811",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": true
+      },
+      {
+        "name": "공통",
+        "id": "1822",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1823",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1824",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1825",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1826",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1827",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      },
+      {
+        "name": "공통",
+        "id": "1828",
+        "code": "",
+        "parentCode": [
+          "-1"
+        ],
+        "entryPoint": false
+      }
+    ]
+}

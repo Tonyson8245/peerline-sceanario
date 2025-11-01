@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-MYI-MYI"
+  ],
+  "mapping": [
+    {
+      "name": "My Info",
+      "id": "1599",
+      "code": "CST-MYI-MYI-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

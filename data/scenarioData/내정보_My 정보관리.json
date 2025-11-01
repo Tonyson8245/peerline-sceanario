@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "CST-MIM-MUM"
+  ],
+  "mapping": [
+    {
+      "name": "개인정보 제3자 제공 동의",
+      "id": "1623",
+      "code": "CST-MIM-MUM-M05300",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "마케팅 정보 수집 동의",
+      "id": "1622",
+      "code": "CST-MIM-MUM-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원탈퇴 완료",
+      "id": "1621",
+      "code": "CST-MIM-MUM-M00900",
+      "parentCode": [
+        "CST-MIM-MUM-M00700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원탈퇴",
+      "id": "1620",
+      "code": "CST-MIM-MUM-M00700",
+      "parentCode": [
+        "CST-MIM-MUM-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "아이디/비밀번호 설정",
+      "id": "1619",
+      "code": "CST-MIM-MUM-M00600",
+      "parentCode": [
+        "CST-MIM-MUM-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "이메일 입력",
+      "id": "1618",
+      "code": "CST-MIM-MUM-M00400",
+      "parentCode": [
+        "CST-MIM-MUM-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원정보 변경 본인인증",
+      "id": "1617",
+      "code": "CST-MIM-MUM-M00200",
+      "parentCode": [
+        "CST-MIM-MUM-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원정보관리",
+      "id": "1616",
+      "code": "CST-MIM-MUM-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

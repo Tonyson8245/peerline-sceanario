@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-INF-FRM"
+  ],
+  "mapping": [
+    {
+      "name": "신청서 양식모음",
+      "id": "1589",
+      "code": "CST-INF-FRM-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

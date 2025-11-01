@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "CST-MIM-PIM"
+  ],
+  "mapping": [
+    {
+      "name": "관계 선택",
+      "id": "1631",
+      "code": "CST-MIM-PIM-M02500",
+      "parentCode": [
+        "CST-MIM-PIM-M02400"
+      ],
+      "entryPoint": false,
+      "outPoint": true
+    },
+    {
+      "name": "제3자 검색",
+      "id": "1630",
+      "code": "CST-MIM-PIM-M02400",
+      "parentCode": [
+        "CST-MIM-PIM-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "내 납부자번호를 관리하는 제3자들",
+      "id": "1629",
+      "code": "CST-MIM-PIM-M02100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "관계 선택",
+      "id": "1628",
+      "code": "CST-MIM-PIM-M01400",
+      "parentCode": [
+        "CST-MIM-PIM-M00100"
+      ],
+      "entryPoint": false,
+      "outPoint": true
+    },
+    {
+      "name": "내가 제3자로써 관리하는 납부자번호들",
+      "id": "1627",
+      "code": "CST-MIM-PIM-M01100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용계약",
+      "id": "1626",
+      "code": "CST-MIM-PIM-M00400",
+      "parentCode": [
+        "CST-MIM-PIM-M00100"
+      ],
+      "entryPoint": false,
+      "outPoint": true
+    },
+    {
+      "name": "내 납부자번호들",
+      "id": "1625",
+      "code": "CST-MIM-PIM-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

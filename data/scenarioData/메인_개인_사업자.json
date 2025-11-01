@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-FRO-MAN"
+  ],
+  "mapping": [
+    {
+      "name": "메인_개인_사업자",
+      "id": "1713",
+      "code": "CST-FRO-MAN-M00101",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

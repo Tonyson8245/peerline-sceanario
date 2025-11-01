@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "CST-INF-GUG"
+  ],
+  "mapping": [
+    {
+      "name": "가스기기 안전관리",
+      "id": "1580",
+      "code": "CST-INF-GUG-M00600",
+      "parentCode": [
+        "CST-INF-GUG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "가스안전 유의사항",
+      "id": "1579",
+      "code": "CST-INF-GUG-M00500",
+      "parentCode": [
+        "CST-INF-GUG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "이사날 체크포인트",
+      "id": "1578",
+      "code": "CST-INF-GUG-M00400",
+      "parentCode": [
+        "CST-INF-GUG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "계량기검침안내",
+      "id": "1577",
+      "code": "CST-INF-GUG-M00300",
+      "parentCode": [
+        "CST-INF-GUG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "신규사용안내",
+      "id": "1576",
+      "code": "CST-INF-GUG-M00200",
+      "parentCode": [
+        "CST-INF-GUG-M00100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "가스이용 안내",
+      "id": "1575",
+      "code": "CST-INF-GUG-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

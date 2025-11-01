@@ -1,0 +1,206 @@
+{
+  "categories": [
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD",
+    "CST-CMN-TAC",
+    "CST-FRO-FMO"
+  ],
+  "mapping": [
+    {
+      "name": "셀프 전출 완료",
+      "id": "1161",
+      "code": "CST-FRO-FMO-M01000",
+      "parentCode": [
+        "CST-FRO-FMO-M00900"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기사 방문 확인",
+      "id": "1160",
+      "code": "CST-FRO-FMO-M00900",
+      "parentCode": [
+        "CST-FRO-FMO-M00700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "최종 확인",
+      "id": "1159",
+      "code": "CST-FRO-FMO-M00700",
+      "parentCode": [
+        "CST-FRO-FMO-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금 납부",
+      "id": "1158",
+      "code": "CST-FRO-FMO-M00400",
+      "parentCode": [
+        "CST-CMN-APR-M00505"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자의 승인이 완료됐어요",
+      "id": "1157",
+      "code": "CST-CMN-APR-M00505",
+      "parentCode": [
+        "CST-CMN-APR-M00205"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자에게 승인 요청했어요",
+      "id": "1156",
+      "code": "CST-CMN-APR-M00205",
+      "parentCode": [
+        "CST-CMN-APR-M00105"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 요청",
+      "id": "1155",
+      "code": "CST-CMN-APR-M00105",
+      "parentCode": [
+        "CST-CMN-SAD-M01005"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1154",
+      "code": "CST-CMN-SAD-M01005",
+      "parentCode": [
+        "CST-CMN-SAD-M00905"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보를 추출하고 있어요",
+      "id": "1153",
+      "code": "CST-CMN-SAD-M00905",
+      "parentCode": [
+        "CST-CMN-SAD-M00605",
+        "CST-CMN-SAD-M00805"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1152",
+      "code": "CST-CMN-SAD-M00805",
+      "parentCode": [
+        "CST-CMN-SAD-M00605"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1151",
+      "code": "CST-CMN-SAD-M00605",
+      "parentCode": [
+        "CST-CMN-SAD-M00105"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "1150",
+      "code": "CST-CMN-SAD-M00505",
+      "parentCode": [
+        "CST-CMN-SAD-M00105"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1149",
+      "code": "CST-CMN-SAD-M00405",
+      "parentCode": [
+        "CST-CMN-SAD-M00205"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1148",
+      "code": "CST-CMN-SAD-M00205",
+      "parentCode": [
+        "CST-CMN-SAD-M00105"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1147",
+      "code": "CST-CMN-SAD-M00105",
+      "parentCode": [
+        "CST-CMN-SLD-M00105"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "1146",
+      "code": "CST-CMN-SLD-M00105",
+      "parentCode": [
+        "CST-FRO-FMO-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 수집 및 이용동의",
+      "id": "1145",
+      "code": "CST-CMN-TAC-M04201",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "서비스 이용 약관",
+      "id": "1144",
+      "code": "CST-CMN-TAC-M04101",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1143",
+      "code": "CST-FRO-FMO-M00300",
+      "parentCode": [
+        "CST-FRO-FMO-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "셀프 전출 조건 확인",
+      "id": "1142",
+      "code": "CST-FRO-FMO-M00200",
+      "parentCode": [
+        "CST-FRO-FMO-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "셀프 전출은 당일 바로 전출이 가능합니다",
+      "id": "1141",
+      "code": "CST-FRO-FMO-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "당일 전입 후 전출 불가 안내",
+      "id": "1140",
+      "code": "CST-FRO-FMO-M00050",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

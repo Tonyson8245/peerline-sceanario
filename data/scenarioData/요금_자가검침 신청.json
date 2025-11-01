@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "CST-SCR-SRA"
+  ],
+  "mapping": [
+    {
+      "name": "자가검침 신청 해지 완료",
+      "id": "1057",
+      "code": "CST-SCR-SRA-M00400",
+      "parentCode": [
+        "CST-SCR-SRA-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자가검침 신청 해지",
+      "id": "1056",
+      "code": "CST-SCR-SRA-M00300",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "자가검침 신청 완료",
+      "id": "1055",
+      "code": "CST-SCR-SRA-M00200",
+      "parentCode": [
+        "CST-SCR-SRA-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자가검침 신청",
+      "id": "1054",
+      "code": "CST-SCR-SRA-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

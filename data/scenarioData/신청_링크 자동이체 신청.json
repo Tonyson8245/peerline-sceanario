@@ -1,0 +1,213 @@
+{
+  "categories": [
+    "CST-BIR-ADA",
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD"
+  ],
+  "mapping": [
+    {
+      "name": "링크_카드 자동이체 신청 완료",
+      "id": "1032",
+      "code": "CST-BIR-ADA-M05800",
+      "parentCode": [
+        "CST-BIR-ADA-M05300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카드 자동이체 정보 입력",
+      "id": "1031",
+      "code": "CST-BIR-ADA-M05300",
+      "parentCode": [
+        "CST-BIR-ADA-M05150"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카드 약관 동의",
+      "id": "1030",
+      "code": "CST-BIR-ADA-M05150",
+      "parentCode": [
+        "CST-BIR-ADA-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 자동이체 신청 완료",
+      "id": "1029",
+      "code": "CST-BIR-ADA-M06500",
+      "parentCode": [
+        "CST-BIR-ADA-M05900"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 자동이체 정보 입력",
+      "id": "1028",
+      "code": "CST-BIR-ADA-M05900",
+      "parentCode": [
+        "CST-BIR-ADA-M05100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 약관 동의",
+      "id": "1027",
+      "code": "CST-BIR-ADA-M05100",
+      "parentCode": [
+        "CST-BIR-ADA-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자동이체 방법 선택",
+      "id": "1026",
+      "code": "CST-BIR-ADA-M05200",
+      "parentCode": [
+        "CST-BIR-ADA-M05050",
+        "CST-BIR-ADA-M05035"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자동이체 해지하고 신청하기",
+      "id": "1025",
+      "code": "CST-BIR-ADA-M05075",
+      "parentCode": [
+        "CST-BIR-ADA-M05050",
+        "CST-BIR-ADA-M05035"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사용자의 승인이 완료됐어요",
+      "id": "1024",
+      "code": "CST-CMN-APR-M00502",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사용자에게 승인 요청했어요",
+      "id": "1023",
+      "code": "CST-CMN-APR-M00202",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_승인 요청",
+      "id": "1022",
+      "code": "CST-CMN-APR-M00102",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 정보 확인",
+      "id": "1021",
+      "code": "CST-CMN-SAD-M01002",
+      "parentCode": [
+        "CST-CMN-SAD-M00902"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 정보를 추출하고 있어요",
+      "id": "1020",
+      "code": "CST-CMN-SAD-M00902",
+      "parentCode": [
+        "CST-CMN-SAD-M00802"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사진 업로드",
+      "id": "1019",
+      "code": "CST-CMN-SAD-M00802",
+      "parentCode": [
+        "CST-CMN-SAD-M00602"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 촬영",
+      "id": "1018",
+      "code": "CST-CMN-SAD-M00602",
+      "parentCode": [
+        "CST-CMN-SAD-M00102"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_납부자번호로 주소 검색",
+      "id": "1017",
+      "code": "CST-CMN-SAD-M00502",
+      "parentCode": [
+        "CST-CMN-SAD-M00102"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_삼천리 상세주소 선택",
+      "id": "1016",
+      "code": "CST-CMN-SAD-M00402",
+      "parentCode": [
+        "CST-CMN-SAD-M00202"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카카오 기본주소 검색",
+      "id": "1015",
+      "code": "CST-CMN-SAD-M00202",
+      "parentCode": [
+        "CST-CMN-SAD-M00102"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_주소 검색유형 선택",
+      "id": "1014",
+      "code": "CST-CMN-SAD-M00102",
+      "parentCode": [
+        "CST-CMN-SLD-M00102"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_주소 선택",
+      "id": "1013",
+      "code": "CST-CMN-SLD-M00102",
+      "parentCode": [
+        "CST-BIR-ADA-M05035"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_본인인증 주소 존재",
+      "id": "1012",
+      "code": "CST-BIR-ADA-M05050",
+      "parentCode": [
+        "CST-BIR-ADA-M05025"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_본인인증 주소 없음",
+      "id": "1011",
+      "code": "CST-BIR-ADA-M05035",
+      "parentCode": [
+        "CST-BIR-ADA-M05025"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자동이체 주소 확인",
+      "id": "1010",
+      "code": "CST-BIR-ADA-M05025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

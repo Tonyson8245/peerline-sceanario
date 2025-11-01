@@ -1,0 +1,137 @@
+{
+  "categories": [
+    "CST-MIM-BRR"
+  ],
+  "mapping": [
+    {
+      "name": "링크_세금계산서 발행 완료",
+      "id": "1646",
+      "code": "CST-MIM-BRR-M05700",
+      "parentCode": [
+        "CST-MIM-BRR-M05500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사업자 정보 입력",
+      "id": "1645",
+      "code": "CST-MIM-BRR-M05500",
+      "parentCode": [
+        "CST-MIM-BRR-M05300",
+        "CST-MIM-BRR-M05400",
+        "CST-MIM-BRR-M05450"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사업자등록증 업로드 PC",
+      "id": "1644",
+      "code": "CST-MIM-BRR-M05450",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사업자등록증 업로드 모바일",
+      "id": "1643",
+      "code": "CST-MIM-BRR-M05400",
+      "parentCode": [
+        "CST-MIM-BRR-M05300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사업자등록증 촬영",
+      "id": "1642",
+      "code": "CST-MIM-BRR-M05300",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_고객센터 안내",
+      "id": "1641",
+      "code": "CST-MIM-BRR-M05200",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_요금팀 안내",
+      "id": "1640",
+      "code": "CST-MIM-BRR-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "세금계산서 발행 완료",
+      "id": "1639",
+      "code": "CST-MIM-BRR-M00800",
+      "parentCode": [
+        "CST-MIM-BRR-M00600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자 정보 입력",
+      "id": "1638",
+      "code": "CST-MIM-BRR-M00600",
+      "parentCode": [
+        "CST-MIM-BRR-M00400",
+        "CST-MIM-BRR-M00500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 업로드",
+      "id": "1637",
+      "code": "CST-MIM-BRR-M00500",
+      "parentCode": [
+        "CST-MIM-BRR-M00100",
+        "CST-MIM-BRR-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 촬영",
+      "id": "1636",
+      "code": "CST-MIM-BRR-M00400",
+      "parentCode": [
+        "CST-MIM-BRR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "고객센터 안내",
+      "id": "1635",
+      "code": "CST-MIM-BRR-M00300",
+      "parentCode": [
+        "CST-MIM-BRR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금팀 안내",
+      "id": "1634",
+      "code": "CST-MIM-BRR-M00200",
+      "parentCode": [
+        "CST-MIM-BRR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "1633",
+      "code": "CST-MIM-BRR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

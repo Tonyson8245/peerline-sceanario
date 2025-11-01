@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "CST-MTU-MIR"
+  ],
+  "mapping": [
+    {
+      "name": "계량기 교체 사전예약 등록 완료",
+      "id": "1522",
+      "code": "CST-MTU-MIR-M00700",
+      "parentCode": [
+        "CST-MTU-MIR-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "방문예약 등록",
+      "id": "1521",
+      "code": "CST-MTU-MIR-M00300",
+      "parentCode": [
+        "CST-MTU-MIR-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "교체 대상 주소 선택",
+      "id": "1520",
+      "code": "CST-MTU-MIR-M00200",
+      "parentCode": [
+        "CST-MTU-MIR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사전예약 가능기간 안내",
+      "id": "1519",
+      "code": "CST-MTU-MIR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

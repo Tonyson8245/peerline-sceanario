@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "CST-CMN-ASF"
+  ],
+  "mapping": [
+    {
+      "name": "계량기 사진 전송 완료",
+      "id": "1773",
+      "code": "CST-CMN-ASF-M02300",
+      "parentCode": [
+        "[\"CST-CMN-ASF-M02100\"]",
+        "[\"CST-CMN-ASF-M02200\"]"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 사진 전송",
+      "id": "1772",
+      "code": "CST-CMN-ASF-M02200",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1771",
+      "code": "CST-CMN-ASF-M02100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

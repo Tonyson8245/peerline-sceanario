@@ -1,0 +1,195 @@
+{
+  "categories": [
+    "CST-CMN-SAD",
+    "CST-CMN-TAC",
+    "CST-FRO-SMI"
+  ],
+  "mapping": [
+    {
+      "name": "링크_간편 전입 신청 완료",
+      "id": "1355",
+      "code": "CST-FRO-SMI-M10900",
+      "parentCode": [
+        "CST-FRO-SMI-M10800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_가스기기 연결 확인",
+      "id": "1354",
+      "code": "CST-FRO-SMI-M10800",
+      "parentCode": [
+        "CST-FRO-SMI-M10700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_최종 확인",
+      "id": "1353",
+      "code": "CST-FRO-SMI-M10700",
+      "parentCode": [
+        "CST-FRO-SMI-M10200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_예약 정보 입력",
+      "id": "1352",
+      "code": "CST-FRO-SMI-M10200",
+      "parentCode": [
+        "CST-CMN-SAD-M01010"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 번호가 유효하지 않습니다",
+      "id": "1351",
+      "code": "CST-CMN-SAD-M01304",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 정보 확인",
+      "id": "1350",
+      "code": "CST-CMN-SAD-M01010",
+      "parentCode": [
+        "CST-CMN-SAD-M00610",
+        "CST-CMN-SAD-M00810"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 정보를 추출하고 있어요",
+      "id": "1349",
+      "code": "CST-CMN-SAD-M00910",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사진 업로드",
+      "id": "1348",
+      "code": "CST-CMN-SAD-M00810",
+      "parentCode": [
+        "CST-CMN-SAD-M00110"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_계량기 촬영",
+      "id": "1347",
+      "code": "CST-CMN-SAD-M00610",
+      "parentCode": [
+        "CST-CMN-SAD-M00110"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_납부자번호로 주소 검색",
+      "id": "1346",
+      "code": "CST-CMN-SAD-M00510",
+      "parentCode": [
+        "CST-CMN-SAD-M00110"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_전출입 및 사용 계약은 '주택용'만 가능합니다",
+      "id": "1345",
+      "code": "CST-CMN-SAD-M00454",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_삼천리 상세주소 선택",
+      "id": "1344",
+      "code": "CST-CMN-SAD-M00410",
+      "parentCode": [
+        "CST-CMN-SAD-M00210"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카카오 기본주소 검색",
+      "id": "1343",
+      "code": "CST-CMN-SAD-M00210",
+      "parentCode": [
+        "CST-CMN-SAD-M00110"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_주소 검색유형 선택",
+      "id": "1342",
+      "code": "CST-CMN-SAD-M00110",
+      "parentCode": [
+        "CST-FRO-SMI-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 제3자 제공 동의",
+      "id": "1341",
+      "code": "CST-CMN-TAC-M00505",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_마케팅 정보 수신 동의",
+      "id": "1340",
+      "code": "CST-CMN-TAC-M00405",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 수집 및 이용 동의",
+      "id": "1339",
+      "code": "CST-CMN-TAC-M04209",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_서비스 이용 약관",
+      "id": "1338",
+      "code": "CST-CMN-TAC-M04109",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_약관 동의",
+      "id": "1337",
+      "code": "CST-FRO-SMI-M10100",
+      "parentCode": [
+        "CST-FRO-SMI-M10035",
+        "CST-FRO-SMI-M10050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_본인인증 주소 존재",
+      "id": "1336",
+      "code": "CST-FRO-SMI-M10050",
+      "parentCode": [
+        "CST-FRO-SMI-M10025"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_본인인증 주소 없음",
+      "id": "1335",
+      "code": "CST-FRO-SMI-M10035",
+      "parentCode": [
+        "CST-FRO-SMI-M10025"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_전입 신청 주소 확인",
+      "id": "1334",
+      "code": "CST-FRO-SMI-M10025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

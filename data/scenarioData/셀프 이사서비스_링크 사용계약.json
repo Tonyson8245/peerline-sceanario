@@ -1,0 +1,186 @@
+{
+  "categories": [
+    "CST-BIR-ADA",
+    "CST-CMN-TAC",
+    "CST-FRO-FMI"
+  ],
+  "mapping": [
+    {
+      "name": "링크_사용 계약 완료",
+      "id": "1230",
+      "code": "CST-FRO-FMI-M05700",
+      "parentCode": [
+        "CST-FRO-FMI-M05600",
+        "CST-FRO-FMI-M05475",
+        "CST-BIR-ADA-M01503",
+        "CST-BIR-ADA-M00803"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카드 자동이체 신청 완료",
+      "id": "1229",
+      "code": "CST-BIR-ADA-M00803",
+      "parentCode": [
+        "CST-BIR-ADA-M00303"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카드 자동이체 정보 입력",
+      "id": "1228",
+      "code": "CST-BIR-ADA-M00303",
+      "parentCode": [
+        "CST-BIR-ADA-M00153"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_카드 약관 동의",
+      "id": "1227",
+      "code": "CST-BIR-ADA-M00153",
+      "parentCode": [
+        "CST-BIR-ADA-M00203"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 자동이체 신청 완료",
+      "id": "1226",
+      "code": "CST-BIR-ADA-M01503",
+      "parentCode": [
+        "CST-BIR-ADA-M00903"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 자동이체 정보 입력",
+      "id": "1225",
+      "code": "CST-BIR-ADA-M00903",
+      "parentCode": [
+        "CST-BIR-ADA-M00103"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_은행 약관 동의",
+      "id": "1224",
+      "code": "CST-BIR-ADA-M00103",
+      "parentCode": [
+        "CST-BIR-ADA-M00203"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자동이체 방법 선택",
+      "id": "1223",
+      "code": "CST-BIR-ADA-M00203",
+      "parentCode": [
+        "CST-BIR-ADA-M00053"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자동이체 안내",
+      "id": "1222",
+      "code": "CST-BIR-ADA-M00053",
+      "parentCode": [
+        "CST-FRO-FMI-M05600",
+        "CST-FRO-FMI-M05475"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_이전 자동이체 이용 확인",
+      "id": "1221",
+      "code": "CST-FRO-FMI-M05475",
+      "parentCode": [
+        "CST-FRO-FMI-M05600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_기사 방문 확인",
+      "id": "1220",
+      "code": "CST-FRO-FMI-M05600",
+      "parentCode": [
+        "CST-FRO-FMI-M05400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사용 계약",
+      "id": "1219",
+      "code": "CST-FRO-FMI-M05400",
+      "parentCode": [
+        "CST-FRO-FMI-M05300",
+        "CST-FRO-FMI-M05350"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_이전 납부자번호 이용 확인",
+      "id": "1218",
+      "code": "CST-FRO-FMI-M05350",
+      "parentCode": [
+        "CST-FRO-FMI-M05300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_본인인증",
+      "id": "1217",
+      "code": "CST-FRO-FMI-M05300",
+      "parentCode": [
+        "CST-FRO-FMI-M05200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 제3자 제공 동의",
+      "id": "1216",
+      "code": "CST-CMN-TAC-M00502",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_마케팅 정보 수신 동의",
+      "id": "1215",
+      "code": "CST-CMN-TAC-M00402",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 수집 및 이용 동의",
+      "id": "1214",
+      "code": "CST-CMN-TAC-M04204",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_서비스 이용 약관",
+      "id": "1213",
+      "code": "CST-CMN-TAC-M04104",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_약관 동의",
+      "id": "1212",
+      "code": "CST-FRO-FMI-M05200",
+      "parentCode": [
+        "CST-FRO-FMI-M05100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사용 계약 안내",
+      "id": "1211",
+      "code": "CST-FRO-FMI-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

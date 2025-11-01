@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-CMN-SRH"
+  ],
+  "mapping": [
+    {
+      "name": "검색",
+      "id": "914",
+      "code": "CST-CMN-SRH-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

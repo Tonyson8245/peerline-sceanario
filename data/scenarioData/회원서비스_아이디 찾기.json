@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-MBR-SID"
+  ],
+  "mapping": [
+    {
+      "name": "아이디 찾기 결과",
+      "id": "878",
+      "code": "CST-MBR-SID-M00200",
+      "parentCode": [
+        "CST-MBR-SID-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "아이디 찾기 본인인증",
+      "id": "877",
+      "code": "CST-MBR-SID-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "categories": [
+    "CST-BIR-ADA",
+    "CST-CMN-SAD",
+    "CST-CMN-TAC",
+    "CST-FRO-SUA"
+  ],
+  "mapping": [
+    {
+      "name": "사용 계약 완료",
+      "id": "1424",
+      "code": "CST-FRO-SUA-M00500",
+      "parentCode": [
+        "CST-FRO-SUA-M00300",
+        "CST-FRO-SUA-M01400",
+        "CST-FRO-SUA-M01500",
+        "CST-BIR-ADA-M01506",
+        "CST-BIR-ADA-M00806"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카드 자동이체 신청 완료",
+      "id": "1798",
+      "code": "CST-BIR-ADA-M00806",
+      "parentCode": [
+        "CST-BIR-ADA-M00306"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카드 자동이체 정보 입력",
+      "id": "1797",
+      "code": "CST-BIR-ADA-M00306",
+      "parentCode": [
+        "CST-BIR-ADA-M00156"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카드 약관 동의",
+      "id": "1796",
+      "code": "CST-BIR-ADA-M00156",
+      "parentCode": [
+        "CST-BIR-ADA-M00206"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 자동이체 신청 완료",
+      "id": "1795",
+      "code": "CST-BIR-ADA-M01506",
+      "parentCode": [
+        "CST-BIR-ADA-M00906"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 자동이체 정보 입력",
+      "id": "1794",
+      "code": "CST-BIR-ADA-M00906",
+      "parentCode": [
+        "CST-BIR-ADA-M00106"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "은행 약관 동의",
+      "id": "1793",
+      "code": "CST-BIR-ADA-M00106",
+      "parentCode": [
+        "CST-BIR-ADA-M00206"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자동이체 방법 선택",
+      "id": "1792",
+      "code": "CST-BIR-ADA-M00206",
+      "parentCode": [
+        "CST-BIR-ADA-M00056"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "자동이체 안내",
+      "id": "1791",
+      "code": "CST-BIR-ADA-M00056",
+      "parentCode": [
+        "CST-FRO-SUA-M00300",
+        "CST-FRO-SUA-M01400",
+        "CST-FRO-SUA-M01500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "이전 자동이체 이용 확인",
+      "id": "1415",
+      "code": "CST-FRO-SUA-M01500",
+      "parentCode": [
+        "CST-FRO-SUA-M00300",
+        "CST-FRO-SUA-M01400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "대리인 사용 계약 - 전자서명 완료",
+      "id": "1788",
+      "code": "CST-FRO-SUA-M01401",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "대리인 사용 계약",
+      "id": "1787",
+      "code": "CST-FRO-SUA-M01400",
+      "parentCode": [
+        "CST-FRO-SUA-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용 계약",
+      "id": "1413",
+      "code": "CST-FRO-SUA-M00300",
+      "parentCode": [
+        "CST-FRO-SUA-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "가스사용자 확인",
+      "id": "1412",
+      "code": "CST-FRO-SUA-M01100",
+      "parentCode": [
+        "CST-CMN-SAD-M00412",
+        "CST-CMN-SAD-M00512",
+        "CST-CMN-SAD-M01012"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1785",
+      "code": "CST-CMN-SAD-M01012",
+      "parentCode": [
+        "CST-CMN-SAD-M00612",
+        "CST-CMN-SAD-M00812"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1784",
+      "code": "CST-CMN-SAD-M00812",
+      "parentCode": [
+        "CST-CMN-SAD-M00112"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1783",
+      "code": "CST-CMN-SAD-M00612",
+      "parentCode": [
+        "CST-CMN-SAD-M00112"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "1782",
+      "code": "CST-CMN-SAD-M00512",
+      "parentCode": [
+        "CST-CMN-SAD-M00112"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1781",
+      "code": "CST-CMN-SAD-M00412",
+      "parentCode": [
+        "CST-CMN-SAD-M00212"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1780",
+      "code": "CST-CMN-SAD-M00212",
+      "parentCode": [
+        "CST-CMN-SAD-M00112"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1779",
+      "code": "CST-CMN-SAD-M00112",
+      "parentCode": [
+        "CST-FRO-SUA-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 제3자 제공 동의",
+      "id": "1778",
+      "code": "CST-CMN-TAC-M00508",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "마케팅 정보 수신 동의",
+      "id": "1777",
+      "code": "CST-CMN-TAC-M00408",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 수집 및 이용 동의",
+      "id": "1776",
+      "code": "CST-CMN-TAC-M04212",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "서비스 이용 약관",
+      "id": "1775",
+      "code": "CST-CMN-TAC-M04112",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1397",
+      "code": "CST-FRO-SUA-M00200",
+      "parentCode": [
+        "CST-FRO-SUA-M00150"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "이전 납부자번호 이용 확인",
+      "id": "1396",
+      "code": "CST-FRO-SUA-M00150",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

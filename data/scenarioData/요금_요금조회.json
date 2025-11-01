@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "CST-BIP-BIQ"
+  ],
+  "mapping": [
+    {
+      "name": "(t)청구요금 조회",
+      "id": "247",
+      "code": "CST-BIP-BIQ-M00100",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "(t)월 별 조회",
+      "id": "248",
+      "code": "CST-BIP-BIQ-M00200",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)월 별 조회_요금 상세",
+      "id": "249",
+      "code": "CST-BIP-BIQ-M00300",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)사용량 비교",
+      "id": "250",
+      "code": "CST-BIP-BIQ-M00400",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)링크_사용량 비교",
+      "id": "254",
+      "code": "CST-BIP-BIQ-M05400",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)링크_월 별 조회_요금 상세",
+      "id": "253",
+      "code": "CST-BIP-BIQ-M05300",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)링크_월 별 조회",
+      "id": "252",
+      "code": "CST-BIP-BIQ-M05200",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)링크_청구요금 조회",
+      "id": "251",
+      "code": "CST-BIP-BIQ-M05100",
+      "parentCode": [],
+      "entryPoint": false
+    }
+  ]
+}

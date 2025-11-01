@@ -1,0 +1,203 @@
+{
+  "categories": [
+    "CST-MBR-SUP"
+  ],
+  "mapping": [
+    {
+      "name": "보일러 시공업체 회원가입 완료",
+      "id": "938",
+      "code": "CST-MBR-SUP-M04400",
+      "parentCode": [
+        "CST-MBR-SUP-M04300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "보일러 시공업체 최종 확인",
+      "id": "937",
+      "code": "CST-MBR-SUP-M04300",
+      "parentCode": [
+        "CST-MBR-SUP-M04100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자 정보 입력",
+      "id": "936",
+      "code": "CST-MBR-SUP-M04100",
+      "parentCode": [
+        "CST-MBR-SUP-M03300",
+        "CST-MBR-SUP-M03400",
+        "CST-MBR-SUP-M03500",
+        "CST-MBR-SUP-M03600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 업로드",
+      "id": "935",
+      "code": "CST-MBR-SUP-M03600",
+      "parentCode": [
+        "CST-MBR-SUP-M03300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 촬영",
+      "id": "934",
+      "code": "CST-MBR-SUP-M03500",
+      "parentCode": [
+        "CST-MBR-SUP-M03300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기업정보 조회",
+      "id": "933",
+      "code": "CST-MBR-SUP-M03400",
+      "parentCode": [
+        "CST-MBR-SUP-M03300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자 정보 입력방식 선택",
+      "id": "932",
+      "code": "CST-MBR-SUP-M03300",
+      "parentCode": [
+        "CST-MBR-SUP-M03200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "보일러 시공업체 약관 동의",
+      "id": "931",
+      "code": "CST-MBR-SUP-M03200",
+      "parentCode": [
+        "CST-MBR-SUP-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자고객 회원가입 완료",
+      "id": "930",
+      "code": "CST-MBR-SUP-M02400",
+      "parentCode": [
+        "CST-MBR-SUP-M02300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자고객 최종 확인",
+      "id": "929",
+      "code": "CST-MBR-SUP-M02300",
+      "parentCode": [
+        "CST-MBR-SUP-M02100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자 정보 입력",
+      "id": "928",
+      "code": "CST-MBR-SUP-M02100",
+      "parentCode": [
+        "CST-MBR-SUP-M01300",
+        "CST-MBR-SUP-M01400",
+        "CST-MBR-SUP-M01500",
+        "CST-MBR-SUP-M01600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 업로드",
+      "id": "927",
+      "code": "CST-MBR-SUP-M01600",
+      "parentCode": [
+        "CST-MBR-SUP-M01300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자등록증 촬영",
+      "id": "926",
+      "code": "CST-MBR-SUP-M01500",
+      "parentCode": [
+        "CST-MBR-SUP-M01300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기업정보 조회",
+      "id": "925",
+      "code": "CST-MBR-SUP-M01400",
+      "parentCode": [
+        "CST-MBR-SUP-M01300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자 정보 입력방식 선택",
+      "id": "924",
+      "code": "CST-MBR-SUP-M01300",
+      "parentCode": [
+        "CST-MBR-SUP-M01200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사업자고객 약관 동의",
+      "id": "923",
+      "code": "CST-MBR-SUP-M01200",
+      "parentCode": [
+        "CST-MBR-SUP-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인고객 회원가입 완료",
+      "id": "922",
+      "code": "CST-MBR-SUP-M00600",
+      "parentCode": [
+        "CST-MBR-SUP-M00400",
+        "CST-MBR-SUP-M00500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인고객 가입정보 확인",
+      "id": "921",
+      "code": "CST-MBR-SUP-M00500",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인고객 최종 확인",
+      "id": "920",
+      "code": "CST-MBR-SUP-M00400",
+      "parentCode": [
+        "CST-MBR-SUP-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인고객 약관 동의",
+      "id": "919",
+      "code": "CST-MBR-SUP-M00200",
+      "parentCode": [
+        "CST-MBR-SUP-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원구분 선택",
+      "id": "918",
+      "code": "CST-MBR-SUP-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

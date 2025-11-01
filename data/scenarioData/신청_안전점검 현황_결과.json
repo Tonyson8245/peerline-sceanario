@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-SAI-PRI"
+  ],
+  "mapping": [
+    {
+      "name": "안전점검 현황/결과 상세",
+      "id": "1513",
+      "code": "CST-SAI-PRI-M00200",
+      "parentCode": [
+        "CST-SAI-PRI-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "안전점검 현황/결과 목록",
+      "id": "1512",
+      "code": "CST-SAI-PRI-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

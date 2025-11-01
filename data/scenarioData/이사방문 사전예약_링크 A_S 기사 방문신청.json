@@ -1,0 +1,50 @@
+{
+  "categories": [],
+  "mapping": [
+    {
+      "name": "기사 방문신청 완료",
+      "id": "1810",
+      "code": "SCL-SP-001600-QVR2",
+      "parentCode": [
+        "SCL-SP-001599-LX5Q"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "최종 확인",
+      "id": "1809",
+      "code": "SCL-SP-001599-LX5Q",
+      "parentCode": [
+        "SCL-SP-001598-RA5F"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 정보 입력",
+      "id": "1808",
+      "code": "SCL-SP-001598-RA5F",
+      "parentCode": [
+        "SCL-SP-001597-I8AX"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1807",
+      "code": "SCL-SP-001597-I8AX",
+      "parentCode": [
+        "SCL-SP-001215-2LTP"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기사 방문신청 주소 확인",
+      "id": "1379",
+      "code": "SCL-SP-001215-2LTP",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

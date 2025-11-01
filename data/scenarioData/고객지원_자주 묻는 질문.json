@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "CST-SUP-FAQ",
+    "CST-SUP-OTO"
+  ],
+  "mapping": [
+    {
+      "name": "(t)사업자고객 FAQ",
+      "id": "1594",
+      "code": "CST-SUP-FAQ-M00300",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)개인고객 FAQ",
+      "id": "1593",
+      "code": "CST-SUP-FAQ-M00200",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "(fp)자세히 보기",
+      "id": "1592",
+      "code": "CST-SUP-FAQ-M00150",
+      "parentCode": [
+        "CST-SUP-OTO-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)FAQ 베스트",
+      "id": "1591",
+      "code": "CST-SUP-FAQ-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

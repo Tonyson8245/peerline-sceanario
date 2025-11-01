@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-INF-PRN"
+  ],
+  "mapping": [
+    {
+      "name": "요금단가 변동 공지 상세",
+      "id": "1567",
+      "code": "CST-INF-PRN-M00200",
+      "parentCode": [
+        "CST-INF-PRN-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금단가 변동 공지 목록",
+      "id": "1566",
+      "code": "CST-INF-PRN-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

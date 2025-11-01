@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "CST-BIP-PYD",
+    "CST-BIP-UPD"
+  ],
+  "mapping": [
+    {
+      "name": "미납 내역 상세",
+      "id": "1740",
+      "code": "CST-BIP-PYD-M00200",
+      "parentCode": [
+        "[\"CST-BIP-UPD-M00100\"]",
+        "[\"CST-BIP-UPD-M00500\"]"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)링크 미납 내역",
+      "id": "1687",
+      "code": "CST-BIP-UPD-M05000",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)미납 내역",
+      "id": "967",
+      "code": "CST-BIP-UPD-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

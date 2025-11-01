@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-BIP-RBC"
+  ],
+  "mapping": [
+    {
+      "name": "실시간 요금 조회",
+      "id": "1268",
+      "code": "CST-BIP-RBC-M00104",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

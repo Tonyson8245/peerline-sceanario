@@ -1,0 +1,90 @@
+{
+  "categories": [
+    "CST-CMN-ASF"
+  ],
+  "mapping": [
+    {
+      "name": "납부자번호 찾기 결과 2",
+      "id": "1138",
+      "code": "CST-CMN-ASF-M00700",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00200\"}",
+        "{\"CST-CMN-ASF-M00600\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1137",
+      "code": "CST-CMN-ASF-M00600",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00400\"}",
+        "{\"CST-CMN-ASF-M00500\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1136",
+      "code": "CST-CMN-ASF-M00500",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1135",
+      "code": "CST-CMN-ASF-M00400",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1134",
+      "code": "CST-CMN-ASF-M00300",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1133",
+      "code": "CST-CMN-ASF-M00200",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호 찾기 유형 선택",
+      "id": "1132",
+      "code": "CST-CMN-ASF-M00100",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00050\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호 찾기 결과 1",
+      "id": "1131",
+      "code": "CST-CMN-ASF-M00050",
+      "parentCode": [
+        "{\"CST-CMN-ASF-M00025\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "본인인증",
+      "id": "1130",
+      "code": "CST-CMN-ASF-M00025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

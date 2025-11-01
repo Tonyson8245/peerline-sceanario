@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-MIM-GFC"
+  ],
+  "mapping": [
+    {
+      "name": "가스시설시공업 관리",
+      "id": "1653",
+      "code": "CST-MIM-GFC-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

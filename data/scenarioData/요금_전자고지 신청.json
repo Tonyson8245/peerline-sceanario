@@ -1,0 +1,186 @@
+{
+  "categories": [
+    "CST-BIR-EBR",
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD"
+  ],
+  "mapping": [
+    {
+      "name": "이메일 고지 신청 완료",
+      "id": "1052",
+      "code": "CST-BIR-EBR-M00700",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00600\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "이메일 고지 정보 입력",
+      "id": "1051",
+      "code": "CST-BIR-EBR-M00600",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00100\"",
+        "\"CST-CMN-SLD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "LMS 고지 신청 완료",
+      "id": "1050",
+      "code": "CST-BIR-EBR-M00500",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00400\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "LMS 고지 정보 입력",
+      "id": "1049",
+      "code": "CST-BIR-EBR-M00400",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00100\"",
+        "\"CST-CMN-SLD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오알림톡 고지 신청 완료",
+      "id": "1048",
+      "code": "CST-BIR-EBR-M00300",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오알림톡 고지 정보 입력",
+      "id": "1047",
+      "code": "CST-BIR-EBR-M00200",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00100\"",
+        "\"CST-CMN-SLD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자의 승인이 완료됐어요",
+      "id": "1046",
+      "code": "CST-CMN-APR-M00503",
+      "parentCode": [
+        "{\"CST-CMN-APR-M00203\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자에게 승인 요청했어요",
+      "id": "1045",
+      "code": "CST-CMN-APR-M00203",
+      "parentCode": [
+        "{\"CST-CMN-APR-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 요청",
+      "id": "1044",
+      "code": "CST-CMN-APR-M00103",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M01003\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1043",
+      "code": "CST-CMN-SAD-M01003",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00903\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보를 추출하고 있어요",
+      "id": "1042",
+      "code": "CST-CMN-SAD-M00903",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00803\"",
+        "\"CST-CMN-SAD-M00603\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1041",
+      "code": "CST-CMN-SAD-M00803",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00103\"",
+        "\"CST-CMN-SAD-M00603\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1040",
+      "code": "CST-CMN-SAD-M00603",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "1039",
+      "code": "CST-CMN-SAD-M00503",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1038",
+      "code": "CST-CMN-SAD-M00403",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00203\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1037",
+      "code": "CST-CMN-SAD-M00203",
+      "parentCode": [
+        "{\"CST-CMN-SAD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1036",
+      "code": "CST-CMN-SAD-M00103",
+      "parentCode": [
+        "{\"CST-CMN-SLD-M00103\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "1035",
+      "code": "CST-CMN-SLD-M00103",
+      "parentCode": [
+        "{\"CST-BIR-EBR-M00100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "전자고지 방법 선택",
+      "id": "1034",
+      "code": "CST-BIR-EBR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

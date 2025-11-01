@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-USG-USG"
+  ],
+  "mapping": [
+    {
+      "name": "이용약관",
+      "id": "1659",
+      "code": "CST-USG-USG-M00500",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신용정보 조회사실 통보공시",
+      "id": "1658",
+      "code": "CST-USG-USG-M00400",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "메일 주소 무단수집 거부",
+      "id": "1657",
+      "code": "CST-USG-USG-M00300",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)알기 쉬운 개인정보 처리 방침",
+      "id": "1656",
+      "code": "CST-USG-USG-M00200",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "(t)개인정보 처리방침",
+      "id": "1655",
+      "code": "CST-USG-USG-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "CST-CMN-CTG",
+    "CST-FRO-MAN"
+  ],
+  "mapping": [
+    {
+      "name": "메뉴",
+      "id": "1722",
+      "code": "CST-CMN-CTG-M00100",
+      "parentCode": [
+        "CST-FRO-MAN-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "메인",
+      "id": "1683",
+      "code": "CST-FRO-MAN-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

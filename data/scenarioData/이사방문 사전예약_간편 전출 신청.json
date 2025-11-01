@@ -1,0 +1,178 @@
+{
+  "categories": [
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD",
+    "CST-CMN-TAC",
+    "CST-FRO-SMO"
+  ],
+  "mapping": [
+    {
+      "name": "간편 전출 신청 완료",
+      "id": "1288",
+      "code": "CST-FRO-SMO-M00900",
+      "parentCode": [
+        "CST-FRO-SMO-M00800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "가스기기 철거 확인",
+      "id": "1287",
+      "code": "CST-FRO-SMO-M00800",
+      "parentCode": [
+        "CST-FRO-SMO-M00700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "최종 확인",
+      "id": "1286",
+      "code": "CST-FRO-SMO-M00700",
+      "parentCode": [
+        "CST-FRO-SMO-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 정보 입력",
+      "id": "1285",
+      "code": "CST-FRO-SMO-M00200",
+      "parentCode": [
+        "CST-CMN-APR-M00506"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자의 승인이 완료됐어요",
+      "id": "1284",
+      "code": "CST-CMN-APR-M00506",
+      "parentCode": [
+        "CST-CMN-APR-M00206"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자에게 승인 요청했어요",
+      "id": "1283",
+      "code": "CST-CMN-APR-M00206",
+      "parentCode": [
+        "CST-CMN-APR-M00106"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 요청",
+      "id": "1282",
+      "code": "CST-CMN-APR-M00106",
+      "parentCode": [
+        "CST-CMN-SAD-M01008"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1281",
+      "code": "CST-CMN-SAD-M01008",
+      "parentCode": [
+        "CST-CMN-SAD-M00908"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보를 추출하고 있어요",
+      "id": "1280",
+      "code": "CST-CMN-SAD-M00908",
+      "parentCode": [
+        "CST-CMN-SAD-M00808"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1279",
+      "code": "CST-CMN-SAD-M00808",
+      "parentCode": [
+        "CST-CMN-SAD-M00608"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1278",
+      "code": "CST-CMN-SAD-M00608",
+      "parentCode": [
+        "CST-CMN-SAD-M00108"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "1277",
+      "code": "CST-CMN-SAD-M00508",
+      "parentCode": [
+        "CST-CMN-SAD-M00108"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1276",
+      "code": "CST-CMN-SAD-M00408",
+      "parentCode": [
+        "CST-CMN-SAD-M00208"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1275",
+      "code": "CST-CMN-SAD-M00208",
+      "parentCode": [
+        "CST-CMN-SAD-M00108"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1274",
+      "code": "CST-CMN-SAD-M00108",
+      "parentCode": [
+        "CST-CMN-SLD-M00106"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "1273",
+      "code": "CST-CMN-SLD-M00106",
+      "parentCode": [
+        "CST-FRO-SMO-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 수집 및 이용동의",
+      "id": "1272",
+      "code": "CST-CMN-TAC-M04206",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "서비스 이용 약관",
+      "id": "1271",
+      "code": "CST-CMN-TAC-M04106",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1270",
+      "code": "CST-FRO-SMO-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

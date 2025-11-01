@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "CST-FRO-BKG",
+    "CST-FRO-SMO"
+  ],
+  "mapping": [
+    {
+      "name": "예약 변경 완료",
+      "id": "1394",
+      "code": "CST-FRO-BKG-M01000",
+      "parentCode": [
+        "CST-FRO-BKG-M00700"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 변경",
+      "id": "1393",
+      "code": "CST-FRO-BKG-M00700",
+      "parentCode": [
+        "CST-FRO-BKG-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 취소 완료",
+      "id": "1392",
+      "code": "CST-FRO-BKG-M00600",
+      "parentCode": [
+        "CST-FRO-BKG-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기사 방문 조회",
+      "id": "1391",
+      "code": "CST-FRO-BKG-M00400",
+      "parentCode": [
+        "CST-FRO-BKG-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 상세",
+      "id": "1390",
+      "code": "CST-FRO-BKG-M00300",
+      "parentCode": [
+        "CST-FRO-SMO-M05050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "예약 목록",
+      "id": "1389",
+      "code": "CST-FRO-BKG-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

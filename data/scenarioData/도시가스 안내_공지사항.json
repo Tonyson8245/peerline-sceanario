@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "CST-INF-NTC"
+  ],
+  "mapping": [
+    {
+      "name": "이미지 뷰어",
+      "id": "1564",
+      "code": "CST-INF-NTC-M00300",
+      "parentCode": [
+        "CST-INF-NTC-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "공지사항 상세",
+      "id": "1563",
+      "code": "CST-INF-NTC-M00200",
+      "parentCode": [
+        "CST-INF-NTC-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "공지사항 목록",
+      "id": "1562",
+      "code": "CST-INF-NTC-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-MTU-MIR"
+  ],
+  "mapping": [
+    {
+      "name": "계량기 교체 사전예약 등록 완료",
+      "id": "1525",
+      "code": "CST-MTU-MIR-M10700",
+      "parentCode": [
+        "CST-MTU-MIR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "방문예약 등록",
+      "id": "1524",
+      "code": "CST-MTU-MIR-M10100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

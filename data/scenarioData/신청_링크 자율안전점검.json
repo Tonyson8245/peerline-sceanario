@@ -1,0 +1,157 @@
+{
+  "categories": [
+    "CST-SAI-ASI"
+  ],
+  "mapping": [
+    {
+      "name": "링크_자율안전점검 완료",
+      "id": "1499",
+      "code": "CST-SAI-ASI-M06500",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M06400\"",
+        "\"CST-SAI-ASI-M06300\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_점검인 서명 취사용 외",
+      "id": "1498",
+      "code": "CST-SAI-ASI-M06400",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M06000\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_점검인 서명 취사용",
+      "id": "1497",
+      "code": "CST-SAI-ASI-M06300",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05400\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_보일러 사진 확인",
+      "id": "1496",
+      "code": "CST-SAI-ASI-M06000",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05900\"",
+        "\"CST-SAI-ASI-M05800\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_보일러 사진 업로드",
+      "id": "1495",
+      "code": "CST-SAI-ASI-M05900",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M06200\"",
+        "\"CST-SAI-ASI-M05800\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_보일러 촬영",
+      "id": "1494",
+      "code": "CST-SAI-ASI-M05800",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M06200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_5 가스보일러 배기통 이탈 확인",
+      "id": "1493",
+      "code": "CST-SAI-ASI-M06200",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M06100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_4 가스보일러 배기통 상태 확인",
+      "id": "1492",
+      "code": "CST-SAI-ASI-M06100",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05400\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_가스레인지 사진 확인",
+      "id": "1491",
+      "code": "CST-SAI-ASI-M05400",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05300\"",
+        "\"CST-SAI-ASI-M05200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_가스레인지 사진 업로드",
+      "id": "1490",
+      "code": "CST-SAI-ASI-M05300",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05700\"",
+        "\"CST-SAI-ASI-M05200\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_가스레인지 촬영",
+      "id": "1489",
+      "code": "CST-SAI-ASI-M05200",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05700\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_3 밸브 고정/작동 확인",
+      "id": "1488",
+      "code": "CST-SAI-ASI-M05700",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05600\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_2 가스누출 여부 확인",
+      "id": "1487",
+      "code": "CST-SAI-ASI-M05600",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05500\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_안전점검 고객센터",
+      "id": "1486",
+      "code": "CST-SAI-ASI-M05550",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05500\"",
+        "}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_1 연결호스 손상 확인",
+      "id": "1485",
+      "code": "CST-SAI-ASI-M05500",
+      "parentCode": [
+        "{\"CST-SAI-ASI-M05100\"}"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_자율안전점검 조건 확인",
+      "id": "1484",
+      "code": "CST-SAI-ASI-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

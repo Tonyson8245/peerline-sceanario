@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-MIM-SMF"
+  ],
+  "mapping": [
+    {
+      "name": "간편계정 연결관리",
+      "id": "1651",
+      "code": "CST-MIM-SMF-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

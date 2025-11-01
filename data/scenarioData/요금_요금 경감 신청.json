@@ -1,0 +1,289 @@
+{
+  "categories": [
+    "CST-BIR-FAR",
+    "CST-CMN-APR",
+    "CST-CMN-SAD",
+    "CST-CMN-SLD"
+  ],
+  "mapping": [
+    {
+      "name": "시설 요금 경감 신청 완료",
+      "id": "1098",
+      "code": "CST-BIR-FAR-M03700",
+      "parentCode": [
+        "CST-BIR-FAR-M03500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "시설 개인정보 활용 동의",
+      "id": "1097",
+      "code": "CST-BIR-FAR-M03500",
+      "parentCode": [
+        "CST-BIR-FAR-M03400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청인 및 시설 정보 입력",
+      "id": "1096",
+      "code": "CST-BIR-FAR-M03400",
+      "parentCode": [
+        "CST-BIR-FAR-M03300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "시설 신청조건 & 증빙서류 안내 (첨부)",
+      "id": "1095",
+      "code": "CST-BIR-FAR-M03300",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "시설 현 경감적용 안내",
+      "id": "1094",
+      "code": "CST-BIR-FAR-M03100",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "다자녀 신청인 및 경감 대상자 정보 입력",
+      "id": "1093",
+      "code": "CST-BIR-FAR-M02300",
+      "parentCode": [
+        "CST-BIR-FAR-M02200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "다자녀 구비서류 첨부",
+      "id": "1092",
+      "code": "CST-BIR-FAR-M02200",
+      "parentCode": [
+        "CST-BIR-FAR-M02100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "다자녀 신청조건 & 증빙서류 안내",
+      "id": "1091",
+      "code": "CST-BIR-FAR-M02100",
+      "parentCode": [
+        "CST-BIR-FAR-M00600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금 경감 신청 완료",
+      "id": "1090",
+      "code": "CST-BIR-FAR-M01300",
+      "parentCode": [
+        "CST-BIR-FAR-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "개인정보 활용 동의",
+      "id": "1089",
+      "code": "CST-BIR-FAR-M01100",
+      "parentCode": [
+        "CST-BIR-FAR-M01000",
+        "CST-BIR-FAR-M02300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "외국인 신청조건 & 증빙서류 안내 (첨부)",
+      "id": "1088",
+      "code": "CST-BIR-FAR-M01000",
+      "parentCode": [
+        "CST-BIR-FAR-M00800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청인 및 경감 대상자 정보 입력",
+      "id": "1087",
+      "code": "CST-BIR-FAR-M00800",
+      "parentCode": [
+        "CST-BIR-FAR-M00600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "경감대상 자격 선택",
+      "id": "1086",
+      "code": "CST-BIR-FAR-M00600",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청 가능 가스용도 안내 중앙난방용 취사용",
+      "id": "1085",
+      "code": "CST-BIR-FAR-M00500",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청 가능 가스용도 안내",
+      "id": "1084",
+      "code": "CST-BIR-FAR-M00400",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "경감자격 변경 신청 안내",
+      "id": "1083",
+      "code": "CST-BIR-FAR-M00200",
+      "parentCode": [
+        "CST-BIR-FAR-M00100",
+        "CST-CMN-SLD-M00104",
+        "CST-CMN-SAD-M00404",
+        "CST-CMN-SAD-M00504",
+        "CST-CMN-SAD-M01004"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자의 승인이 완료됐어요",
+      "id": "1082",
+      "code": "CST-CMN-APR-M00504",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "사용자에게 승인 요청했어요",
+      "id": "1081",
+      "code": "CST-CMN-APR-M00204",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 요청",
+      "id": "1080",
+      "code": "CST-CMN-APR-M00104",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1079",
+      "code": "CST-CMN-SAD-M01004",
+      "parentCode": [
+        "CST-CMN-SAD-M00604",
+        "CST-CMN-SAD-M00804"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보를 추출하고 있어요",
+      "id": "1078",
+      "code": "CST-CMN-SAD-M00904",
+      "parentCode": [],
+      "entryPoint": false
+    },
+    {
+      "name": "사진 업로드",
+      "id": "1077",
+      "code": "CST-CMN-SAD-M00804",
+      "parentCode": [
+        "CST-CMN-SAD-M00104"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영",
+      "id": "1076",
+      "code": "CST-CMN-SAD-M00604",
+      "parentCode": [
+        "CST-CMN-SAD-M00104"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "납부자번호로 주소 검색",
+      "id": "1075",
+      "code": "CST-CMN-SAD-M00504",
+      "parentCode": [
+        "CST-CMN-SAD-M00104"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세주소 선택",
+      "id": "1074",
+      "code": "CST-CMN-SAD-M00404",
+      "parentCode": [
+        "CST-CMN-SAD-M00204"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본주소 검색",
+      "id": "1073",
+      "code": "CST-CMN-SAD-M00204",
+      "parentCode": [
+        "CST-CMN-SAD-M00104"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 검색유형 선택",
+      "id": "1072",
+      "code": "CST-CMN-SAD-M00104",
+      "parentCode": [
+        "CST-CMN-SLD-M00104"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "주소 선택",
+      "id": "1071",
+      "code": "CST-CMN-SLD-M00104",
+      "parentCode": [
+        "CST-BIR-FAR-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "요금경감 구분 선택",
+      "id": "1070",
+      "code": "CST-BIR-FAR-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "CST-MBR-SPW"
+  ],
+  "mapping": [
+    {
+      "name": "비밀번호 재설정 완료",
+      "id": "881",
+      "code": "CST-MBR-SPW-M00400",
+      "parentCode": [
+        "CST-MBR-SPW-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "비밀번호 재설정",
+      "id": "880",
+      "code": "CST-MBR-SPW-M00300",
+      "parentCode": [
+        "CST-MBR-SPW-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "회원구분 선택 아이디 입력",
+      "id": "879",
+      "code": "CST-MBR-SPW-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

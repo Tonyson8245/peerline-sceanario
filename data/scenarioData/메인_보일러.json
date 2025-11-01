@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-FRO-MAN"
+  ],
+  "mapping": [
+    {
+      "name": "메인_보일러",
+      "id": "1729",
+      "code": "CST-FRO-MAN-M00102",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

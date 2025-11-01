@@ -1,0 +1,16 @@
+{
+  "categories": [
+    "CST-BIP-ECB"
+  ],
+  "mapping": [
+    {
+      "name": "간편요금 조회",
+      "id": "1128",
+      "code": "CST-BIP-ECB-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

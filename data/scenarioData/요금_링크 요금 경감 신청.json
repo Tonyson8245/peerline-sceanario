@@ -1,0 +1,170 @@
+{
+  "categories": [
+    "CST-BIR-FAR"
+  ],
+  "mapping": [
+    {
+      "name": "링크_시설 요금 경감 신청 완료",
+      "id": "1117",
+      "code": "CST-BIR-FAR-M13700",
+      "parentCode": [
+        "CST-BIR-FAR-M13500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_시설 개인정보 활용 동의",
+      "id": "1116",
+      "code": "CST-BIR-FAR-M13500",
+      "parentCode": [
+        "CST-BIR-FAR-M13400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_신청인 및 시설 정보 입력",
+      "id": "1115",
+      "code": "CST-BIR-FAR-M13400",
+      "parentCode": [
+        "CST-BIR-FAR-M13300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_시설 신청조건 & 증빙서류 안내 (첨부)",
+      "id": "1114",
+      "code": "CST-BIR-FAR-M13300",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_시설 현 경감적용 안내",
+      "id": "1113",
+      "code": "CST-BIR-FAR-M13100",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_다자녀 신청인 및 경감 대상자 정보 입력",
+      "id": "1112",
+      "code": "CST-BIR-FAR-M12300",
+      "parentCode": [
+        "CST-BIR-FAR-M12200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_다자녀 구비서류 첨부",
+      "id": "1111",
+      "code": "CST-BIR-FAR-M12200",
+      "parentCode": [
+        "CST-BIR-FAR-M12100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_다자녀 신청조건 & 증빙서류 안내",
+      "id": "1110",
+      "code": "CST-BIR-FAR-M12100",
+      "parentCode": [
+        "CST-BIR-FAR-M10600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_요금 경감 신청 완료",
+      "id": "1109",
+      "code": "CST-BIR-FAR-M11300",
+      "parentCode": [
+        "CST-BIR-FAR-M11100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_개인정보 활용 동의",
+      "id": "1108",
+      "code": "CST-BIR-FAR-M11100",
+      "parentCode": [
+        "CST-BIR-FAR-M11000",
+        "CST-BIR-FAR-M12300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_외국인 신청조건 & 증빙서류 안내 (첨부)",
+      "id": "1107",
+      "code": "CST-BIR-FAR-M11000",
+      "parentCode": [
+        "CST-BIR-FAR-M10800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_신청인 및 경감 대상자 정보 입력",
+      "id": "1106",
+      "code": "CST-BIR-FAR-M10800",
+      "parentCode": [
+        "CST-BIR-FAR-M10600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_경감대상 자격 선택",
+      "id": "1105",
+      "code": "CST-BIR-FAR-M10600",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_신청 가능 가스용도 안내 중앙난방용 취사용",
+      "id": "1104",
+      "code": "CST-BIR-FAR-M10500",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_신청 가능 가스용도 안내",
+      "id": "1103",
+      "code": "CST-BIR-FAR-M10400",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_경감자격 변경 신청 안내",
+      "id": "1102",
+      "code": "CST-BIR-FAR-M10200",
+      "parentCode": [
+        "CST-BIR-FAR-M10100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_요금경감 구분 선택",
+      "id": "1101",
+      "code": "CST-BIR-FAR-M10100",
+      "parentCode": [
+        "CST-BIR-FAR-M10050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_요금경감 주소 확인",
+      "id": "1100",
+      "code": "CST-BIR-FAR-M10050",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

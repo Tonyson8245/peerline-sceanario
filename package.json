@@ -1,0 +1,16 @@
+{
+  "name": "peerline-scenario-data",
+  "version": "1.0.0",
+  "description": "Peerline scenario data for external access",
+  "type": "module",
+  "exports": {
+    "./scenarioData/*": "./data/scenarioData/*.json",
+    "./PassData/passData": "./data/PassData/passData.json",
+    "./authPageMap": "./data/authPageMap.js",
+    "./index": "./data/index.js"
+  },
+  "files": [
+    "data"
+  ]
+}
+

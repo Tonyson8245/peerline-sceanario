@@ -1,0 +1,139 @@
+{
+  "categories": [
+    "CST-MBR-LGN"
+  ],
+  "mapping": [
+    {
+      "name": "휴면 회원 해제 본인인증",
+      "id": "836",
+      "code": "CST-MBR-LGN-M01400",
+      "parentCode": [
+        "CST-MBR-LGN-M00100",
+        "CST-MBR-LGN-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 담당자 본인인증",
+      "id": "837",
+      "code": "CST-MBR-LGN-M01000",
+      "parentCode": [
+        "CST-MBR-LGN-M02400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 사업자 정보 입력",
+      "id": "835",
+      "code": "CST-MBR-LGN-M02400",
+      "parentCode": [
+        "CST-MBR-LGN-M00800",
+        "CST-MBR-LGN-M02100",
+        "CST-MBR-LGN-M02200",
+        "CST-MBR-LGN-M02300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 사업자등록증 업로드",
+      "id": "834",
+      "code": "CST-MBR-LGN-M02300",
+      "parentCode": [
+        "CST-MBR-LGN-M00800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 사업자등록증 촬영",
+      "id": "1803",
+      "code": "CST-MBR-LGN-M02200",
+      "parentCode": [
+        "CST-MBR-LGN-M00800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 기업정보 조회",
+      "id": "833",
+      "code": "CST-MBR-LGN-M02100",
+      "parentCode": [
+        "CST-MBR-LGN-M00800"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 사업자 정보 입력방식 선택",
+      "id": "832",
+      "code": "CST-MBR-LGN-M00800",
+      "parentCode": [
+        "CST-MBR-LGN-M00600"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 사업자고객 약관 동의",
+      "id": "831",
+      "code": "CST-MBR-LGN-M00600",
+      "parentCode": [
+        "CST-MBR-LGN-M00100",
+        "CST-MBR-LGN-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 간편계정 연결관리",
+      "id": "830",
+      "code": "CST-MBR-LGN-M01500",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "기회원 개인고객 약관 동의",
+      "id": "829",
+      "code": "CST-MBR-LGN-M00500",
+      "parentCode": [
+        "CST-MBR-LGN-M00100",
+        "CST-MBR-LGN-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "아이디/비밀번호 로그인",
+      "id": "827",
+      "code": "CST-MBR-LGN-M00400",
+      "parentCode": [
+        "CST-MBR-LGN-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "로그인할 계정 선택",
+      "id": "828",
+      "code": "CST-MBR-LGN-M00300",
+      "parentCode": [
+        "CST-MBR-LGN-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "본인인증",
+      "id": "826",
+      "code": "CST-MBR-LGN-M00700",
+      "parentCode": [
+        "CST-MBR-LGN-M00500"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "로그인",
+      "id": "825",
+      "code": "CST-MBR-LGN-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}

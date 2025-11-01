@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "CST-BLR-BSD"
+  ],
+  "mapping": [
+    {
+      "name": "보일러 공지 상세",
+      "id": "1560",
+      "code": "CST-BLR-BSD-M03200",
+      "parentCode": [
+        "CST-BLR-BSD-M03100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "보일러 공지 목록",
+      "id": "1559",
+      "code": "CST-BLR-BSD-M03100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}

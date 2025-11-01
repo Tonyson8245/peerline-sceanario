@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "CST-CMN-APS"
+  ],
+  "mapping": [
+    {
+      "name": "승인 설정 완료",
+      "id": "1665",
+      "code": "CST-CMN-APS-M00600",
+      "parentCode": [
+        "CST-CMN-APS-M00400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 설정",
+      "id": "1664",
+      "code": "CST-CMN-APS-M00400",
+      "parentCode": [
+        "CST-CMN-APS-M00300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "본인인증",
+      "id": "1663",
+      "code": "CST-CMN-APS-M00300",
+      "parentCode": [
+        "CST-CMN-APS-M00200"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "약관 동의",
+      "id": "1662",
+      "code": "CST-CMN-APS-M00200",
+      "parentCode": [
+        "CST-CMN-APS-M00100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "승인 설정 안내",
+      "id": "1661",
+      "code": "CST-CMN-APS-M00100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": false
+    }
+  ]
+}
