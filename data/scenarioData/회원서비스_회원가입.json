@@ -162,7 +162,7 @@
         "CST-MBR-SUP-M00500"
       ],
       "entryPoint": false,
-      "endPoint": true
+      "outPoint": true
     },
     {
       "name": "개인고객 가입정보 확인",
