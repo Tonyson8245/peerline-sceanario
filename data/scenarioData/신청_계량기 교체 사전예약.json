@@ -11,7 +11,7 @@
         "CST-MTU-MIR-M00300"
       ],
       "entryPoint": false,
-      "entryPoint": true
+      "endPoint": true
     },
     {
       "name": "방문예약 등록",
