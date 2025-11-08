@@ -10,7 +10,8 @@
       "parentCode": [
         "CST-MTU-MIR-M00300"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "entryPoint": true
     },
     {
       "name": "방문예약 등록",
@@ -28,7 +29,7 @@
       "parentCode": [
         "CST-MTU-MIR-M00100"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "사전예약 가능기간 안내",
