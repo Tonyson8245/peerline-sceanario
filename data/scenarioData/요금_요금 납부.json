@@ -10,7 +10,8 @@
       "parentCode": [
         "CST-BIP-BPM-M00100"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "요금 납부",
@@ -19,7 +20,7 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": true
     }
   ]
 }
