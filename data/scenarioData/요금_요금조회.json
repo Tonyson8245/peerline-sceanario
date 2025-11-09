@@ -57,7 +57,8 @@
       "id": "251",
       "code": "CST-BIP-BIQ-M05100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true,
+      "isLink": true
     }
   ]
 }
