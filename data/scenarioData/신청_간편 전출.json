@@ -6,16 +6,17 @@
   "mapping": [
     {
       "name": "링크_간편 전출 신청 완료",
-      "id": "1297",
+      "id": "1679",
       "code": "CST-FRO-SMO-M05900",
       "parentCode": [
         "CST-FRO-SMO-M05800"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "링크_가스기기 철거 확인",
-      "id": "1296",
+      "id": "1678",
       "code": "CST-FRO-SMO-M05800",
       "parentCode": [
         "CST-FRO-SMO-M05700"
@@ -24,7 +25,7 @@
     },
     {
       "name": "링크_최종 확인",
-      "id": "1295",
+      "id": "1677",
       "code": "CST-FRO-SMO-M05700",
       "parentCode": [
         "CST-FRO-SMO-M05200"
@@ -33,7 +34,7 @@
     },
     {
       "name": "링크_예약 정보 입력",
-      "id": "1294",
+      "id": "1676",
       "code": "CST-FRO-SMO-M05200",
       "parentCode": [
         "CST-CMN-TAC-M04207"
@@ -60,7 +61,7 @@
     },
     {
       "name": "링크_약관 동의",
-      "id": "1291",
+      "id": "1675",
       "code": "CST-FRO-SMO-M05100",
       "parentCode": [
         "CST-FRO-SMO-M05050"
@@ -69,7 +70,7 @@
     },
     {
       "name": "링크_전출 신청 주소 확인",
-      "id": "1290",
+      "id": "1674",
       "code": "CST-FRO-SMO-M05050",
       "parentCode": [
         "-1"
