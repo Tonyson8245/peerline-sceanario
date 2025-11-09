@@ -10,7 +10,7 @@
       "parentCode": [
         "{\"CST-BIP-PYD-M00100\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "(t)납부 내역",
