@@ -12,7 +12,7 @@
         "[\"CST-BIP-UPD-M00100\"]",
         "[\"CST-BIP-UPD-M00500\"]"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "(t)링크 미납 내역",
