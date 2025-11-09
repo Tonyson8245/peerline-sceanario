@@ -22,7 +22,7 @@
       "id": "249",
       "code": "CST-BIP-BIQ-M00300",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "(t)사용량 비교",
