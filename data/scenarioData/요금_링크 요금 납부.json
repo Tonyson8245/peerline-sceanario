@@ -19,7 +19,7 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": true
     }
   ]
 }
