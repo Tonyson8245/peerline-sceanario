@@ -50,7 +50,8 @@
       "parentCode": [
         "CST-BIP-BPM-M05100"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "링크_요금 납부",
