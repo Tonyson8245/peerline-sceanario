@@ -11,7 +11,8 @@
       "parentCode": [
         "{\"CST-BLR-BSD-M00500\"}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "endPoint": true
     },
     {
       "name": "(fp)보일러 시공서류 촬영",

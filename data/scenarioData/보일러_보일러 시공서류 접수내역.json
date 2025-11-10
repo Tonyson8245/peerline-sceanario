@@ -10,7 +10,8 @@
       "parentCode": [
         "{\"CST-BLR-BSD-M01700\"}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "endPoint": true
     },
     {
       "name": "(fp)보일러 시공서류 촬영",
@@ -46,7 +47,8 @@
       "parentCode": [
         "{\"CST-BLR-BSD-M01300\"}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "endPoint": true
     },
     {
       "name": "접수 상세",
@@ -73,7 +75,8 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": true
+      "entryPoint": true,
+      "isLink": true
     }
   ]
 }
