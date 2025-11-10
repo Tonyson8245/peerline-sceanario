@@ -10,7 +10,8 @@
       "parentCode": [
         "CST-MTU-MIR-M10100"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "방문예약 등록",
@@ -19,7 +20,8 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": true,
+      "isLink": true
     }
   ]
 }
