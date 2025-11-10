@@ -1,140 +1,138 @@
 {
-  "categories": [
-    "CST-CMN-TAC"
-  ],
+  "categories": ["CST-CMN-TAC"],
   "mapping": [
     {
       "name": "개인정보의 제3자 제공 동의 # 승인 설정",
       "id": "1765",
       "code": "CST-CMN-TAC-M05200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 승인 설정",
       "id": "1764",
       "code": "CST-CMN-TAC-M05100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보의 제3자 제공 동의 # 사용 계약",
       "id": "1763",
       "code": "CST-CMN-TAC-M04400",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 사용 계약",
       "id": "1762",
       "code": "CST-CMN-TAC-M04300",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 전출입 신청",
       "id": "1761",
       "code": "CST-CMN-TAC-M04200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "서비스 이용 약관 # 전출입 신청",
       "id": "1760",
       "code": "CST-CMN-TAC-M04100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 제3자 제공 동의 # 요금 경감 신청-사회복지시설",
       "id": "1759",
       "code": "CST-CMN-TAC-M03200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 요금 경감 신청-사회복지시설",
       "id": "1758",
       "code": "CST-CMN-TAC-M03100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 제3자 제공 동의 # 요금 경감 신청-사회적배려대상자",
       "id": "1757",
       "code": "CST-CMN-TAC-M02200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 요금 경감 신청-사회적배려대상자",
       "id": "1756",
       "code": "CST-CMN-TAC-M02100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보의 제3자 제공 동의 # 카드 자동이체 신청",
       "id": "1755",
       "code": "CST-CMN-TAC-M01400",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 카드 자동이체 신청",
       "id": "1754",
       "code": "CST-CMN-TAC-M01300",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보의 제3자 제공 동의 # 은행 자동이체 신청",
       "id": "1753",
       "code": "CST-CMN-TAC-M01200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 수집 및 이용동의 # 은행 자동이체 신청",
       "id": "1752",
       "code": "CST-CMN-TAC-M01100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 제3자 제공 동의",
       "id": "1751",
       "code": "CST-CMN-TAC-M00500",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "마케팅 정보 수신 동의",
       "id": "1750",
       "code": "CST-CMN-TAC-M00400",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 취급 위탁방침 동의",
       "id": "1766",
       "code": "CST-CMN-TAC-M00300",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "회원 약관",
       "id": "1748",
       "code": "CST-CMN-TAC-M00100",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "개인정보 취급방침 동의",
       "id": "1747",
       "code": "CST-CMN-TAC-M00200",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     }
   ]
 }
