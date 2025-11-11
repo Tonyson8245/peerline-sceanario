@@ -66,7 +66,7 @@
       "parentCode": [
         "{\"CST-CMN-ASF-M00050\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "납부자번호 찾기 결과 1",
@@ -75,7 +75,7 @@
       "parentCode": [
         "{\"CST-CMN-ASF-M00025\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "본인인증",
