@@ -80,7 +80,8 @@
       "parentCode": [
         "{\"CST-BLR-BSD-M02600\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true,
+      "isLink": true
     },
     {
       "name": "보일러 시공서류 접수 안내",
@@ -89,7 +90,8 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": true
+      "entryPoint": true,
+      "isLink": true
     }
   ]
 }
