@@ -21,7 +21,8 @@
       "code": "CST-BIR-EBR-M00600",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}"
+        "\"CST-CMN-SLD-M00103\"}",
+        "\"CST-CMN-APR-M00200\"}"
       ],
       "entryPoint": false
     },
@@ -40,7 +41,8 @@
       "code": "CST-BIR-EBR-M00400",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}"
+        "\"CST-CMN-SLD-M00103\"}",
+        "\"CST-CMN-APR-M00200\"}"
       ],
       "entryPoint": false
     },
@@ -59,7 +61,8 @@
       "code": "CST-BIR-EBR-M00200",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}"
+        "\"CST-CMN-SLD-M00103\"}",
+        "\"CST-CMN-APR-M00200\"}"
       ],
       "entryPoint": false
     },
