@@ -134,7 +134,7 @@
         "CST-CMN-SAD-M00504",
         "CST-CMN-SAD-M01004"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "신청 가능 가스용도 안내 중앙난방용 취사용",
