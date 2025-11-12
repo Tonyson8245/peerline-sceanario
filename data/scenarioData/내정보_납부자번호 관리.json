@@ -10,7 +10,7 @@
       "parentCode": [
         "CST-MIM-PIM-M02400"
       ],
-      "entryPoint": false,
+      "entryPoint": true,
       "outPoint": true
     },
     {
@@ -38,7 +38,7 @@
       "parentCode": [
         "CST-MIM-PIM-M00100"
       ],
-      "entryPoint": false,
+      "entryPoint": true,
       "outPoint": true
     },
     {
@@ -57,8 +57,64 @@
       "parentCode": [
         "CST-MIM-PIM-M00100"
       ],
-      "entryPoint": false,
+      "entryPoint": true,
       "outPoint": true
+    },
+    {
+      "name": "주소검색/선택",
+      "id": "1811",
+      "code": "CST-CMN-SAD-M00100-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "카카오 기본 주소 검색",
+      "id": "1822",
+      "code": "CST-CMN-SAD-M00200-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "삼천리 상세 주소 선택",
+      "id": "1823",
+      "code": "CST-CMN-SAD-M00400-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "납부자 번호 주소 검색",
+      "id": "1824",
+      "code": "CST-CMN-SAD-M00500-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "계량기 촬영 주소 검색",
+      "id": "1825",
+      "code": "CST-CMN-SAD-M00600-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 사진 업로드",
+      "id": "1828",
+      "code": "CST-CMN-SAD-M00800-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 정보 확인",
+      "id": "1827",
+      "code": "CST-CMN-SAD-M01000-PIM",
+      "parentCode": [
+      ],
+      "entryPoint": true
     },
     {
       "name": "내 납부자번호들",

@@ -97,7 +97,7 @@
       "parentCode": [
         "{\"CST-CMN-SAD-M00903\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "계량기 정보를 추출하고 있어요",
@@ -135,7 +135,7 @@
       "parentCode": [
         "{\"CST-CMN-SAD-M00103\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "삼천리 상세주소 선택",
@@ -144,7 +144,7 @@
       "parentCode": [
         "{\"CST-CMN-SAD-M00203\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "카카오 기본주소 검색",
