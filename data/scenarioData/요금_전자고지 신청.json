@@ -21,10 +21,9 @@
       "code": "CST-BIR-EBR-M00600",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}",
-        "\"CST-CMN-APR-M00200\"}"
+        "\"CST-CMN-SLD-M00103\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "LMS 고지 신청 완료",
@@ -41,10 +40,9 @@
       "code": "CST-BIR-EBR-M00400",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}",
-        "\"CST-CMN-APR-M00200\"}"
+        "\"CST-CMN-SLD-M00103\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "카카오알림톡 고지 신청 완료",
@@ -61,10 +59,9 @@
       "code": "CST-BIR-EBR-M00200",
       "parentCode": [
         "{\"CST-BIR-EBR-M00100\"",
-        "\"CST-CMN-SLD-M00103\"}",
-        "\"CST-CMN-APR-M00200\"}"
+        "\"CST-CMN-SLD-M00103\"}"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "사용자의 승인이 완료됐어요",
