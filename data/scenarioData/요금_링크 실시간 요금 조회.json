@@ -4,6 +4,24 @@
   ],
   "mapping": [
     {
+      "name": "계량기 사진 업로드로 지침 입력",
+      "id": "1689",
+      "code": "CST-BIP-RBC-M00102",
+      "parentCode": [
+        "CST-BIP-RBC-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영으로 지침 입력",
+      "id": "1680",
+      "code": "CST-BIP-RBC-M00103",
+      "parentCode": [
+        "CST-BIP-RBC-M00101"
+      ],
+      "entryPoint": false
+    },
+    {
       "name": "링크_실시간 요금조회",
       "id": "1124",
       "code": "CST-BIP-RBC-M05100",
