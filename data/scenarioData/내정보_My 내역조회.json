@@ -78,7 +78,7 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "고지서 재발행 모두 전자고지",
