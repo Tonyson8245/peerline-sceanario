@@ -134,7 +134,7 @@
         "CST-CMN-SAD-M00504",
         "CST-CMN-SAD-M01004"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "신청 가능 가스용도 안내 중앙난방용 취사용",
@@ -177,21 +177,21 @@
     },
     {
       "name": "사용자의 승인이 완료됐어요",
-      "id": "1082",
+      "id": "1848",
       "code": "CST-CMN-APR-M00504",
       "parentCode": [],
       "entryPoint": false
     },
     {
       "name": "사용자에게 승인 요청했어요",
-      "id": "1081",
+      "id": "1835",
       "code": "CST-CMN-APR-M00204",
       "parentCode": [],
       "entryPoint": false
     },
     {
       "name": "승인 요청",
-      "id": "1080",
+      "id": "1834",
       "code": "CST-CMN-APR-M00104",
       "parentCode": [],
       "entryPoint": false
