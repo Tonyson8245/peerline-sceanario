@@ -5,7 +5,7 @@
   "mapping": [
     {
       "name": "계량기 사진 업로드로 지침 입력",
-      "id": "1689",
+      "id": "1854",
       "code": "CST-BIP-RBC-M00102",
       "parentCode": [
         "CST-BIP-RBC-M00101"
@@ -14,7 +14,7 @@
     },
     {
       "name": "계량기 촬영으로 지침 입력",
-      "id": "1680",
+      "id": "1855",
       "code": "CST-BIP-RBC-M00103",
       "parentCode": [
         "CST-BIP-RBC-M00101"
@@ -28,7 +28,8 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": true
+      "entryPoint": true,
+      "isLink": true
     }
   ]
 }
