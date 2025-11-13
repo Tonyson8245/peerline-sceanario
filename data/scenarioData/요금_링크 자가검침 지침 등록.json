@@ -40,13 +40,31 @@
       "entryPoint": false
     },
     {
+      "name": "계량기 사진 업로드로 지침입력",
+      "id": "1870",
+      "code": "CST-SCR-SRR-M05400",
+      "parentCode": [
+        "CST-SCR-SRR-M05050"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기 촬영으로 지침 입력",
+      "id": "1871",
+      "code": "CST-SCR-SRR-M05200",
+      "parentCode": [
+        "CST-SCR-SRR-M05050"
+      ],
+      "entryPoint": false
+    },
+    {
       "name": "자가검침 지침 주소 확인",
       "id": "1064",
       "code": "CST-SCR-SRR-M05025",
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": true
     }
   ]
 }

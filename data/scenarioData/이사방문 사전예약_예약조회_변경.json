@@ -38,7 +38,7 @@
       "parentCode": [
         "CST-FRO-BKG-M00300"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "예약 상세",

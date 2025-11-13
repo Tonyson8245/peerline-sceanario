@@ -11,7 +11,8 @@
         "{\"CST-SAI-ASI-M06400\"",
         "\"CST-SAI-ASI-M06300\"}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "링크_점검인 서명 취사용 외",
@@ -133,7 +134,8 @@
         "{\"CST-SAI-ASI-M05500\"",
         "}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "outPoint": true
     },
     {
       "name": "링크_1 연결호스 손상 확인",
@@ -151,7 +153,8 @@
       "parentCode": [
         "-1"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "isLink": true
     }
   ]
 }
