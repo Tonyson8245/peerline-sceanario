@@ -46,7 +46,7 @@
       "parentCode": [
         "CST-SCR-SRR-M00050"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "자가검침 지침 등록 가능기간 안내",
