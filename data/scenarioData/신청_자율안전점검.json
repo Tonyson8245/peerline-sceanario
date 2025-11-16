@@ -163,7 +163,8 @@
       "parentCode": [
         "{\"CST-SAI-ASI-M00100\"}"
       ],
-      "entryPoint": false
+      "entryPoint": false,
+      "isLink": true
     },
     {
       "name": "안전점검 가능기간 안내",
