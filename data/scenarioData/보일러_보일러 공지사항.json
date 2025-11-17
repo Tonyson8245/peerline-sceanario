@@ -10,7 +10,7 @@
       "parentCode": [
         "CST-BLR-BSD-M03100"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "보일러 공지 목록",
