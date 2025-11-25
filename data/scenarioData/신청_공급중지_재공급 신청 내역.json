@@ -1,0 +1,54 @@
+{
+  "categories": [
+    "CST-GAP-RCR"
+  ],
+  "mapping": [
+    {
+      "name": "신청변경 완료",
+      "id": "1874",
+      "code": "SCL-SP-001651-D7A0",
+      "parentCode": [
+        "CST-GAP-RCR-M02200"
+      ],
+      "entryPoint": false,
+      "outputOnly": true
+    },
+    {
+      "name": "신청취소 완료",
+      "id": "1868",
+      "code": "CST-GAP-RCR-M01700",
+      "parentCode": [
+        "CST-GAP-RCR-M01400"
+      ],
+      "entryPoint": false,
+      "outputOnly": true
+    },
+    {
+      "name": "신청정보 변경",
+      "id": "1869",
+      "code": "CST-GAP-RCR-M02200",
+      "parentCode": [
+        "CST-GAP-RCR-M01400"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청정보 확인",
+      "id": "1867",
+      "code": "CST-GAP-RCR-M01400",
+      "parentCode": [
+        "CST-GAP-RCR-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "신청내역",
+      "id": "1866",
+      "code": "CST-GAP-RCR-M01100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}
