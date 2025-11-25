@@ -30,7 +30,7 @@ export const authPageMap = {
   1059: { auth: "O", action: "login" },
   1070: { auth: "O", action: "login" },
   1122: { auth: "O", action: "login" },
-  1126: { auth: "O", action: "login" },
+  1126: { auth: "X", action: "continue" },
   1128: { auth: "X", action: "continue" },
   1396: { auth: "O", action: "guestLogin" },
   287: { auth: "O", action: "guestLogin" },
