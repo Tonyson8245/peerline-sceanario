@@ -124,8 +124,7 @@
       "id": "1466",
       "code": "CST-SAI-ASI-M00200",
       "parentCode": ["{\"CST-SAI-ASI-M00100\"}"],
-      "entryPoint": true,
-      "isLink": true
+      "entryPoint": true
     },
     {
       "name": "안전점검 가능기간 안내",
