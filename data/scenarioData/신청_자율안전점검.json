@@ -124,7 +124,7 @@
       "id": "1466",
       "code": "CST-SAI-ASI-M00200",
       "parentCode": ["{\"CST-SAI-ASI-M00100\"}"],
-      "entryPoint": false,
+      "entryPoint": true,
       "isLink": true
     },
     {
@@ -132,8 +132,7 @@
       "id": "1465",
       "code": "CST-SAI-ASI-M00100",
       "parentCode": ["-1"],
-      "entryPoint": false,
-      "isLink": true
+      "entryPoint": false
     }
   ]
 }
