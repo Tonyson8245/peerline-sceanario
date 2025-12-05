@@ -18,7 +18,7 @@ export const authPageMap = {
   825: { auth: "X", action: "continue" }, // 로그인 페이지
   1604: { auth: "O", action: "login" },
   1397: { auth: "O", action: "login" },
-  1130: { auth: "O", action: "login" },
+  1130: { auth: "X", action: "continue" },
   1606: { auth: "O", action: "login" },
   1745: { auth: "O", action: "login" },
   247: { auth: "O", action: "login" },
