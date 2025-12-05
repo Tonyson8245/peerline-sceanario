@@ -134,6 +134,15 @@
         "-1"
       ],
       "entryPoint": false
+    },
+    {
+      "name": "로그인",
+      "id": "1862",
+      "code": "CST-MBR-LGN-M00025",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
     }
   ]
 }
