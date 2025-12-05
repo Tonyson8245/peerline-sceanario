@@ -19,7 +19,7 @@
       "parentCode": [
         "CST-INF-NTC-M00100"
       ],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "공지사항 목록",
