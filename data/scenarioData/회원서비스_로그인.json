@@ -9,7 +9,8 @@
       "code": "CST-MBR-LGN-M01400",
       "parentCode": [
         "CST-MBR-LGN-M00100",
-        "CST-MBR-LGN-M00400"
+        "CST-MBR-LGN-M00400",
+        "CST-MBR-LGN-M00025"
       ],
       "entryPoint": false
     },
@@ -76,7 +77,8 @@
       "code": "CST-MBR-LGN-M00600",
       "parentCode": [
         "CST-MBR-LGN-M00100",
-        "CST-MBR-LGN-M00400"
+        "CST-MBR-LGN-M00400",
+        "CST-MBR-LGN-M00025"
       ],
       "entryPoint": false
     },
@@ -95,7 +97,8 @@
       "code": "CST-MBR-LGN-M00500",
       "parentCode": [
         "CST-MBR-LGN-M00100",
-        "CST-MBR-LGN-M00400"
+        "CST-MBR-LGN-M00400",
+        "CST-MBR-LGN-M00025"
       ],
       "entryPoint": false
     },
@@ -104,7 +107,8 @@
       "id": "827",
       "code": "CST-MBR-LGN-M00400",
       "parentCode": [
-        "CST-MBR-LGN-M00100"
+        "CST-MBR-LGN-M00100",
+        "CST-MBR-LGN-M00025"
       ],
       "entryPoint": false
     },
@@ -113,7 +117,8 @@
       "id": "828",
       "code": "CST-MBR-LGN-M00300",
       "parentCode": [
-        "CST-MBR-LGN-M00100"
+        "CST-MBR-LGN-M00100",
+        "CST-MBR-LGN-M00025"
       ],
       "entryPoint": false
     },

@@ -144,8 +144,17 @@
       "id": "1785",
       "code": "CST-CMN-SAD-M01012",
       "parentCode": [
-        "CST-CMN-SAD-M00612",
-        "CST-CMN-SAD-M00812"
+        "CST-CMN-SAD-M00912"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "계량기번호를 추출",
+      "id": "1830",
+      "code": "CST-CMN-SAD-M00912",
+      "parentCode": [
+        "CST-CMN-SAD-M00812",
+        "CST-CMN-SAD-M00612"
       ],
       "entryPoint": false
     },
