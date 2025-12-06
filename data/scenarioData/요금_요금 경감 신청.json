@@ -168,7 +168,7 @@
       "id": "1834",
       "code": "CST-CMN-APR-M00104",
       "parentCode": [],
-      "entryPoint": false
+      "entryPoint": true
     },
     {
       "name": "계량기 정보 확인",
