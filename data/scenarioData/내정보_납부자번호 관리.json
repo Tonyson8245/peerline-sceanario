@@ -4,6 +4,24 @@
   ],
   "mapping": [
     {
+      "name": "납부자 번호 사업자 검색",
+      "id": "1886",
+      "code": "CST-CMN-SAD-M00500-PIM-BIZ",
+      "parentCode": [
+        "CST-MIM-PIM-M05100"
+      ],
+      "entryPoint": true
+    },
+    {
+      "name": "내 고객번호들(사업자)",
+      "id": "1875",
+      "code": "CST-MIM-PIM-M05100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    },
+    {
       "name": "관계 선택",
       "id": "1631",
       "code": "CST-MIM-PIM-M02500",
