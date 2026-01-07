@@ -58,6 +58,48 @@
       "entryPoint": false
     },
     {
+      "name": "개인정보 수집 및 이용 안내 # 승인 요청 # 비회원",
+      "id": "1885",
+      "code": "CST-CMN-TAC-M05050",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "개인정보 수집 및 이용 안내 # 전출입 A/S # 비회원",
+      "id": "1884",
+      "code": "CST-CMN-TAC-M04250",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "개인정보 제3자 제공 동의 # 요금 경감 신청-사회적배려대상자",
+      "id": "1882",
+      "code": "CST-CMN-TAC-M02500",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "민감정보 제3자 제공 동의 # 요금 경감 신청-사회적배려대상자",
+      "id": "1881",
+      "code": "CST-CMN-TAC-M02400",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "고유식별정보 제3자 제공 동의 # 요금 경감 신청-사회적배려대상자",
+      "id": "1880",
+      "code": "CST-CMN-TAC-M02300",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
+      "name": "개인정보 취급 위탁방침 동의",
+      "id": "1766",
+      "code": "CST-CMN-TAC-M00300",
+      "parentCode": [],
+      "entryPoint": true
+    },
+    {
       "name": "개인정보의 제3자 제공 동의 # 승인 설정",
       "id": "1765",
       "code": "CST-CMN-TAC-M05200",
@@ -166,13 +208,6 @@
       "name": "마케팅 정보 수신 동의",
       "id": "1750",
       "code": "CST-CMN-TAC-M00400",
-      "parentCode": [],
-      "entryPoint": true
-    },
-    {
-      "name": "개인정보 취급 위탁방침 동의",
-      "id": "1766",
-      "code": "CST-CMN-TAC-M00300",
       "parentCode": [],
       "entryPoint": true
     },
