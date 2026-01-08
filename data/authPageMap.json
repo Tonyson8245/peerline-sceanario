@@ -1,7 +1,7 @@
 {
   "879": { "auth": "X", "action": "continue" },
   "877": { "auth": "X", "action": "continue" },
-  "1465": { "auth": "O", "action": "login" },
+  "1465": { "auth": "O", "action": "login", "acceptUserTypes": ["PER"] },
 
   "1816": { "auth": "X", "action": "continue" },
   "827": { "auth": "X", "action": "continue" },
@@ -30,15 +30,15 @@
   "1122": { "auth": "O", "action": "login" },
   "1126": { "auth": "X", "action": "continue" },
   "1128": { "auth": "X", "action": "continue" },
-  "1396": { "auth": "O", "action": "guestLogin" },
-  "287": { "auth": "O", "action": "guestLogin" },
-  "316": { "auth": "O", "action": "guestLogin" },
-  "385": { "auth": "O", "action": "guestLogin" },
-  "407": { "auth": "O", "action": "guestLogin" },
-  "1377": { "auth": "O", "action": "guestLogin" },
-  "1389": { "auth": "O", "action": "guestLogin" },
-  "1459": { "auth": "O", "action": "login" },
-  "1512": { "auth": "O", "action": "login" },
+  "1396": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "287": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "316": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "385": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "407": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "1377": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "1389": { "auth": "O", "action": "guestLogin", "acceptUserTypes": ["PER"] },
+  "1459": { "auth": "O", "action": "login", "acceptUserTypes": ["PER"] },
+  "1512": { "auth": "O", "action": "login", "acceptUserTypes": ["PER"] },
   "1519": { "auth": "O", "action": "login" },
   "1527": { "auth": "O", "action": "login" },
   "1539": { "auth": "O", "action": "login" },
@@ -72,6 +72,7 @@
   "1625": { "auth": "O", "action": "login" },
   "1633": { "auth": "O", "action": "login" },
   "1649": { "auth": "O", "action": "login" },
-  "1651": { "auth": "O", "action": "login" },
-  "1653": { "auth": "O", "action": "login" }
+  "1651": { "auth": "O", "action": "login", "acceptUserTypes": ["PER"] },
+  "1653": { "auth": "O", "action": "login" },
+  "1866": { "auth": "O", "action": "login", "acceptUserTypes": ["PER"] }
 }
