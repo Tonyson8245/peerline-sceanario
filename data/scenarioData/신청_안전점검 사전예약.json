@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "CST-SAI-SIR"
+  ],
+  "mapping": [
+    {
+      "name": "링크_안전점검 사전예약 완료",
+      "id": "1892",
+      "code": "CST-SAI-SIR-M01600",
+      "parentCode": [
+        "CST-SAI-SIR-M01575"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_점검거부 서명",
+      "id": "1891",
+      "code": "CST-SAI-SIR-M01575",
+      "parentCode": [
+        "CST-SAI-SIR-M01300"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_안전점검 사전예약",
+      "id": "1889",
+      "code": "CST-SAI-SIR-M01300",
+      "parentCode": [
+        "CST-SAI-SIR-M01100"
+      ],
+      "entryPoint": false
+    },
+    {
+      "name": "링크_사전예약 안내",
+      "id": "1888",
+      "code": "CST-SAI-SIR-M01100",
+      "parentCode": [
+        "-1"
+      ],
+      "entryPoint": true
+    }
+  ]
+}
